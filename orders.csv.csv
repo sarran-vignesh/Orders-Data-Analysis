@@ -1,0 +1,1001 @@
+order_id,order_date,ship_mode,segment,country,city,state,postal_code,region,category,sub_category,product_id,quantity,discount,sale_price,profit
+1,2023-03-01,"Second Class",Consumer,"United States",Henderson,Kentucky,42420,South,Furniture,Bookcases,FUR-BO-10001798,2,5.2,254.8,14.8
+2,2023-08-15,"Second Class",Consumer,"United States",Henderson,Kentucky,42420,South,Furniture,Chairs,FUR-CH-10000454,3,21.9,708.1,108.1
+3,2023-01-10,"Second Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Labels,OFF-LA-10000240,2,0.5,9.5,-0.5
+4,2022-06-18,"Standard Class",Consumer,"United States","Fort Lauderdale",Florida,33311,South,Furniture,Tables,FUR-TA-10000577,5,19.2,940.8,160.8
+5,2022-07-13,"Standard Class",Consumer,"United States","Fort Lauderdale",Florida,33311,South,"Office Supplies",Storage,OFF-ST-10000760,2,1,19,-1
+6,2022-03-13,NULL,Consumer,"United States","Los Angeles",California,90032,West,Furniture,Furnishings,FUR-FU-10001487,7,1.5,48.5,-1.5
+7,2022-12-28,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Art,OFF-AR-10002833,4,0.3,9.7,-0.3
+8,2022-01-25,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,Technology,Phones,TEC-PH-10002275,6,45.5,864.5,4.5
+9,2023-03-23,NULL,Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Binders,OFF-BI-10003910,3,0.4,19.6,-0.4
+10,2023-05-16,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Appliances,OFF-AP-10002892,5,3.3,106.7,16.7
+11,2023-03-31,NULL,Consumer,"United States","Los Angeles",California,90032,West,Furniture,Tables,FUR-TA-10001539,9,51.3,1658.7,188.7
+12,2023-12-25,NULL,Consumer,"United States","Los Angeles",California,90032,West,Technology,Phones,TEC-PH-10002033,4,27.3,882.7,132.7
+13,2022-02-11,"Standard Class",Consumer,"United States",Concord,"North Carolina",28027,South,"Office Supplies",Paper,OFF-PA-10002365,3,0.6,19.4,-0.6
+14,2023-07-18,"Standard Class",Consumer,"United States",Seattle,Washington,98103,West,"Office Supplies",Binders,OFF-BI-10003656,3,8.2,401.8,41.8
+15,2023-11-09,NULL,"Home Office","United States","Fort Worth",Texas,76106,Central,"Office Supplies",Appliances,OFF-AP-10002311,5,3.5,66.5,6.5
+16,2022-06-18,"Standard Class","Home Office","United States","Fort Worth",Texas,76106,Central,"Office Supplies",Binders,OFF-BI-10000756,3,0,0,0
+17,2022-02-04,"Standard Class",Consumer,"United States",Madison,Wisconsin,53711,Central,"Office Supplies",Storage,OFF-ST-10004186,6,20.1,649.9,39.9
+18,2023-08-04,"Second Class",Consumer,"United States","West Jordan",Utah,84084,West,"Office Supplies",Storage,OFF-ST-10000107,2,2.4,57.6,-2.4
+19,2022-01-23,"Second Class",Consumer,"United States","San Francisco",California,94109,West,"Office Supplies",Art,OFF-AR-10003056,2,0.4,9.6,-0.4
+20,2022-01-11,"Second Class",Consumer,"United States","San Francisco",California,94109,West,Technology,Phones,TEC-PH-10001949,3,6.3,203.7,33.7
+21,2022-10-05,"Second Class",Consumer,"United States","San Francisco",California,94109,West,"Office Supplies",Binders,OFF-BI-10002215,4,0.4,19.6,-0.4
+22,2023-07-16,"Standard Class",Corporate,"United States",Fremont,Nebraska,68025,Central,"Office Supplies",Art,OFF-AR-10000246,7,0.8,19.2,-0.8
+23,2023-05-06,"Standard Class",Corporate,"United States",Fremont,Nebraska,68025,Central,"Office Supplies",Appliances,OFF-AP-10001492,7,1.8,58.2,8.2
+24,2023-05-21,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,FUR-CH-10002774,2,2.8,67.2,7.2
+25,2023-02-24,"Standard Class",Consumer,"United States",Orem,Utah,84057,West,Furniture,Tables,FUR-TA-10000577,3,52,988,88
+26,2022-06-20,"Second Class",Consumer,"United States","Los Angeles",California,90049,West,"Office Supplies",Binders,OFF-BI-10001634,2,0.5,9.5,-0.5
+27,2022-02-08,"Second Class",Consumer,"United States","Los Angeles",California,90049,West,Technology,Accessories,TEC-AC-10003027,3,2.7,87.3,7.3
+28,2023-12-11,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,Furniture,Bookcases,FUR-BO-10004834,7,92.4,2987.6,247.6
+29,2022-08-21,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Binders,OFF-BI-10000474,2,0.5,9.5,-0.5
+30,2022-08-14,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,FUR-FU-10004848,3,4.8,115.2,15.2
+31,2022-11-20,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Envelopes,OFF-EN-10001509,2,0,0,0
+32,2023-01-19,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Art,OFF-AR-10004042,6,3.6,86.4,16.4
+33,2023-01-30,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Binders,OFF-BI-10001525,6,0.5,9.5,-0.5
+34,2022-06-03,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Art,OFF-AR-10001683,2,0.8,19.2,-0.8
+35,2022-09-28,"Second Class","Home Office","United States",Houston,Texas,77095,Central,"Office Supplies",Paper,OFF-PA-10000249,3,0.9,29.1,-0.9
+36,2022-10-30,"First Class",Corporate,"United States",Richardson,Texas,75080,Central,Technology,Phones,TEC-PH-10004977,7,55,1045,25
+37,2023-07-27,"First Class",Corporate,"United States",Richardson,Texas,75080,Central,Furniture,Furnishings,FUR-FU-10003664,5,7.6,182.4,2.4
+38,2023-03-07,"Standard Class","Home Office","United States",Houston,Texas,77041,Central,"Office Supplies",Envelopes,OFF-EN-10002986,9,2.2,107.8,17.8
+39,2023-08-18,"Standard Class","Home Office","United States",Houston,Texas,77041,Central,Furniture,Bookcases,FUR-BO-10002545,3,10.6,519.4,59.4
+40,2022-01-20,"Standard Class","Home Office","United States",Houston,Texas,77041,Central,Furniture,Chairs,FUR-CH-10004218,3,4.2,205.8,5.8
+41,2023-06-29,"Standard Class","Home Office","United States",Houston,Texas,77041,Central,Technology,Phones,TEC-PH-10000486,4,18.5,351.5,1.5
+42,2022-06-28,"Standard Class",Corporate,"United States",Naperville,Illinois,60540,Central,Technology,Phones,TEC-PH-10004093,4,4.5,145.5,5.5
+43,2023-02-09,"Standard Class",Corporate,"United States","Los Angeles",California,90049,West,"Office Supplies",Storage,OFF-ST-10003479,2,4,76,6
+44,2023-09-18,"Standard Class",Corporate,"United States",Melbourne,Florida,32935,South,"Office Supplies",Storage,OFF-ST-10003282,2,4,96,6
+45,2022-11-11,"First Class",Corporate,"United States",Eagan,Minnesota,55122,Central,Technology,Accessories,TEC-AC-10000171,2,1,49,9
+46,2022-05-27,"First Class",Corporate,"United States",Eagan,Minnesota,55122,Central,"Office Supplies",Binders,OFF-BI-10003291,2,1,19,-1
+47,2023-02-03,"Second Class",Consumer,"United States",Westland,Michigan,48185,Central,"Office Supplies",Storage,OFF-ST-10001713,4,8.4,201.6,21.6
+48,2022-02-16,"Standard Class",Consumer,"United States",Dover,Delaware,19901,East,Technology,Accessories,TEC-AC-10002167,3,2.5,47.5,-2.5
+49,2022-05-06,"Standard Class",Consumer,"United States",Dover,Delaware,19901,East,Technology,Phones,TEC-PH-10003988,2,0.8,19.2,-0.8
+50,2023-06-18,"Standard Class",Consumer,"United States","New Albany",Indiana,47150,Central,"Office Supplies",Binders,OFF-BI-10004410,6,1.6,38.4,8.4
+51,2022-01-11,"Standard Class",Consumer,"United States","New Albany",Indiana,47150,Central,"Office Supplies",Labels,OFF-LA-10002762,6,3.2,76.8,6.8
+52,2023-09-09,"Standard Class",Consumer,"United States","New Albany",Indiana,47150,Central,Furniture,Furnishings,FUR-FU-10001706,2,0.4,9.6,-0.4
+53,2022-01-31,"Standard Class",Consumer,"United States","New Albany",Indiana,47150,Central,Furniture,Chairs,FUR-CH-10003061,1,4.5,85.5,15.5
+54,2023-07-30,"Standard Class",Corporate,"United States","New York City","New York",10024,East,"Office Supplies",Fasteners,OFF-FA-10000304,7,0.6,19.4,-0.6
+55,2023-10-17,"Standard Class",Corporate,"United States","New York City","New York",10024,East,Technology,Phones,TEC-PH-10002447,5,41.2,988.8,138.8
+56,2023-07-06,"First Class",Consumer,"United States",Troy,"New York",12180,East,"Office Supplies",Storage,OFF-ST-10000604,6,10.5,199.5,-0.5
+57,2023-09-15,"First Class",Consumer,"United States",Troy,"New York",12180,East,"Office Supplies",Paper,OFF-PA-10001569,5,1.5,28.5,-1.5
+58,2022-08-09,"First Class",Consumer,"United States",Troy,"New York",12180,East,Furniture,Chairs,FUR-CH-10003968,5,6.4,313.6,23.6
+59,2022-04-05,"First Class",Consumer,"United States",Troy,"New York",12180,East,"Office Supplies",Paper,OFF-PA-10000587,2,0.4,9.6,-0.4
+60,2023-06-24,"First Class",Consumer,"United States",Troy,"New York",12180,East,Technology,Accessories,TEC-AC-10002167,2,1.5,28.5,8.5
+61,2022-03-10,"First Class",Consumer,"United States",Troy,"New York",12180,East,"Office Supplies",Binders,OFF-BI-10001460,4,1,49,9
+62,2023-04-08,"First Class",Consumer,"United States",Troy,"New York",12180,East,"Office Supplies",Art,OFF-AR-10001868,1,0,0,0
+63,2023-10-16,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,Technology,Accessories,TEC-AC-10004633,2,0.3,9.7,-0.3
+64,2023-08-02,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,"Office Supplies",Binders,OFF-BI-10001078,6,0.6,29.4,9.4
+65,2022-11-05,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,"Office Supplies",Paper,OFF-PA-10003892,3,7.5,142.5,12.5
+66,2022-05-06,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,Furniture,Furnishings,FUR-FU-10000397,4,1.6,78.4,8.4
+67,2022-03-26,"Standard Class","Home Office","United States",Chicago,Illinois,60610,Central,Furniture,Chairs,FUR-CH-10001146,5,10.5,199.5,19.5
+68,2022-04-10,"Standard Class",Corporate,"United States",Gilbert,Arizona,85234,West,"Office Supplies",Art,OFF-AR-10002671,8,33.3,1076.7,136.7
+69,2022-08-12,"Standard Class",Corporate,"United States",Gilbert,Arizona,85234,West,Technology,Phones,TEC-PH-10002726,4,5.1,164.9,4.9
+70,2022-02-25,"First Class",Consumer,"United States",Springfield,Virginia,22153,South,"Office Supplies",Paper,OFF-PA-10000482,2,1.6,78.4,8.4
+71,2022-11-29,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Binders,OFF-BI-10004654,1,0,0,0
+72,2022-12-18,"Second Class",Consumer,"United States",Jackson,Michigan,49201,Central,"Office Supplies",Paper,OFF-PA-10004675,3,0.6,19.4,-0.6
+73,2023-03-07,"Standard Class",Consumer,"United States",Memphis,Tennessee,38109,South,Furniture,Chairs,FUR-CH-10000513,8,16.6,813.4,23.4
+74,2023-07-12,"Standard Class",Consumer,"United States",Memphis,Tennessee,38109,South,Furniture,Furnishings,FUR-FU-10003708,2,3,97,7
+75,2022-10-21,"Standard Class",Consumer,"United States",Memphis,Tennessee,38109,South,"Office Supplies",Storage,OFF-ST-10004123,1,1.4,68.6,8.6
+76,2023-04-17,"First Class",Corporate,"United States",Houston,Texas,77041,Central,"Office Supplies",Binders,OFF-BI-10004182,3,0,0,0
+77,2023-05-20,"First Class",Corporate,"United States",Houston,Texas,77041,Central,Furniture,Furnishings,FUR-FU-10000260,3,0.4,9.6,-0.4
+78,2023-05-13,"First Class",Corporate,"United States",Houston,Texas,77041,Central,"Office Supplies",Storage,OFF-ST-10000615,3,0.6,29.4,9.4
+79,2022-10-20,"Second Class",Consumer,"United States",Houston,Texas,77070,Central,Furniture,Furnishings,FUR-FU-10003194,5,0.4,19.6,-0.4
+80,2023-10-22,"First Class",Corporate,"United States",Decatur,Alabama,35601,South,"Office Supplies",Appliances,OFF-AP-10002118,1,6.3,203.7,13.7
+81,2022-07-20,"First Class",Corporate,"United States",Decatur,Alabama,35601,South,"Office Supplies",Binders,OFF-BI-10002309,3,0.4,19.6,-0.4
+82,2022-11-16,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Art,OFF-AR-10002053,5,0.5,9.5,-0.5
+83,2022-11-10,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Storage,OFF-ST-10002370,1,0.8,19.2,-0.8
+84,2022-03-15,"Standard Class",Corporate,"United States",Durham,"North Carolina",27707,South,"Office Supplies",Envelopes,OFF-EN-10000927,7,6,194,14
+85,2023-10-03,"First Class","Home Office","United States",Chicago,Illinois,60623,Central,"Office Supplies",Storage,OFF-ST-10003656,3,4.6,225.4,15.4
+86,2022-03-20,"Second Class",Consumer,"United States",Columbia,"South Carolina",29203,South,Furniture,Chairs,FUR-CH-10000863,2,15,285,25
+87,2023-12-04,"Standard Class",Consumer,"United States",Rochester,Minnesota,55901,Central,Technology,Accessories,TEC-AC-10001998,1,1,19,-1
+88,2023-11-24,"Standard Class",Consumer,"United States",Rochester,Minnesota,55901,Central,"Office Supplies",Labels,OFF-LA-10000134,2,0.5,9.5,-0.5
+89,2023-12-30,"Second Class","Home Office","United States",Houston,Texas,77095,Central,"Office Supplies",Storage,OFF-ST-10003442,7,8,152,12
+90,2022-05-23,"Standard Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Art,OFF-AR-10004930,3,0.4,19.6,-0.4
+91,2023-04-06,"Standard Class",Corporate,"United States","Los Angeles",California,90036,West,Technology,Phones,TEC-PH-10004093,2,1.4,68.6,8.6
+92,2022-03-23,"Standard Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Paper,OFF-PA-10000304,1,0.2,9.8,-0.2
+93,2023-04-07,"Second Class",Consumer,"United States",Minneapolis,Minnesota,55407,Central,"Office Supplies",Paper,OFF-PA-10003177,2,0.2,9.8,-0.2
+94,2022-05-13,"Second Class",Consumer,"United States",Minneapolis,Minnesota,55407,Central,Furniture,Furnishings,FUR-FU-10003799,3,2.5,47.5,-2.5
+95,2022-04-23,"Second Class",Consumer,"United States",Minneapolis,Minnesota,55407,Central,"Office Supplies",Binders,OFF-BI-10002852,2,0.9,29.1,9.1
+96,2023-12-17,"Standard Class","Home Office","United States",Portland,Oregon,97206,West,"Office Supplies",Binders,OFF-BI-10004738,1,0.2,9.8,-0.2
+97,2022-04-28,"Second Class","Home Office","United States","New York City","New York",10009,East,Furniture,Furnishings,FUR-FU-10000629,7,5,95,15
+98,2023-06-14,"First Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Binders,OFF-BI-10001721,3,2,48,8
+99,2023-02-05,"Standard Class",Corporate,"United States","Saint Paul",Minnesota,55106,Central,"Office Supplies",Appliances,OFF-AP-10000358,6,2.4,77.6,7.6
+100,2023-12-30,"Standard Class","Home Office","United States",Chicago,Illinois,60610,Central,"Office Supplies",Paper,OFF-PA-10003256,7,1.8,58.2,-1.8
+101,2022-02-24,"Standard Class","Home Office","United States",Chicago,Illinois,60610,Central,Technology,Accessories,TEC-AC-10001767,3,5,95,15
+102,2022-07-25,"Standard Class","Home Office","United States",Chicago,Illinois,60610,Central,"Office Supplies",Binders,OFF-BI-10002609,3,0,0,0
+103,2022-01-14,"Second Class",Consumer,"United States",Rochester,Minnesota,55901,Central,"Office Supplies",Paper,OFF-PA-10004040,4,0.8,19.2,-0.8
+104,2022-12-22,"Standard Class",Consumer,"United States",Aurora,Colorado,80013,West,Technology,Accessories,TEC-AC-10001552,6,7.2,232.8,12.8
+105,2022-06-09,"Standard Class",Consumer,"United States",Aurora,Colorado,80013,West,Furniture,Furnishings,FUR-FU-10004006,3,5,95,5
+106,2023-10-28,"Standard Class",Consumer,"United States",Aurora,Colorado,80013,West,"Office Supplies",Binders,OFF-BI-10002794,3,2,38,8
+107,2022-10-18,"Standard Class",Consumer,"United States",Charlotte,"North Carolina",28205,South,Technology,Accessories,TEC-AC-10003499,8,3.5,66.5,6.5
+108,2022-11-23,"Standard Class",Consumer,"United States",Charlotte,"North Carolina",28205,South,Technology,Phones,TEC-PH-10002844,1,0.9,29.1,-0.9
+109,2023-10-12,"Standard Class",Consumer,"United States",Charlotte,"North Carolina",28205,South,"Office Supplies",Art,OFF-AR-10000390,1,0,0,0
+110,2023-03-17,"Standard Class","Home Office","United States","Orland Park",Illinois,60462,Central,Technology,Accessories,TEC-AC-10000844,5,6.8,333.2,43.2
+111,2023-09-05,"Standard Class",Corporate,"United States","New York City","New York",10035,East,Furniture,Furnishings,FUR-FU-10001934,2,0.8,39.2,9.2
+112,2022-01-28,"Standard Class",Consumer,"United States",Urbandale,Iowa,50322,Central,"Office Supplies",Art,OFF-AR-10000380,2,2.4,77.6,7.6
+113,2022-12-26,"Standard Class",Consumer,"United States",Urbandale,Iowa,50322,Central,"Office Supplies",Binders,OFF-BI-10003981,6,0.9,29.1,-0.9
+114,2023-06-06,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Fasteners,OFF-FA-10000621,14,0.8,39.2,-0.8
+115,2023-11-08,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Envelopes,OFF-EN-10002600,2,0,0,0
+116,2022-11-15,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Paper,OFF-PA-10004965,3,0.8,19.2,-0.8
+117,2022-06-30,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Envelopes,OFF-EN-10002504,6,6.5,123.5,3.5
+118,2023-10-27,"Standard Class",Consumer,"United States",Seattle,Washington,98103,West,Furniture,Tables,FUR-TA-10001768,3,31.6,758.4,38.4
+119,2023-07-19,NULL,Corporate,"United States",Bristol,Tennessee,37620,South,"Office Supplies",Binders,OFF-BI-10003650,1,8,152,12
+120,2023-03-30,"First Class",Consumer,"United States",Wilmington,Delaware,19805,East,Furniture,Furnishings,FUR-FU-10002157,3,1.5,48.5,-1.5
+121,2022-03-03,"First Class",Consumer,"United States",Wilmington,Delaware,19805,East,"Office Supplies",Binders,OFF-BI-10003910,4,0.6,29.4,9.4
+122,2022-10-20,"First Class",Consumer,"United States",Wilmington,Delaware,19805,East,"Office Supplies",Storage,OFF-ST-10000777,6,4.6,225.4,35.4
+123,2023-01-23,"First Class",Consumer,"United States",Wilmington,Delaware,19805,East,"Office Supplies",Envelopes,OFF-EN-10002500,9,4.8,115.2,5.2
+124,2023-01-21,"First Class",Consumer,"United States",Wilmington,Delaware,19805,East,Technology,Phones,TEC-PH-10003875,7,1.4,68.6,8.6
+125,2023-07-18,"Second Class","Home Office","United States",Houston,Texas,77041,Central,Furniture,Chairs,FUR-CH-10004063,3,18,582,32
+126,2023-07-15,"Standard Class",Consumer,"United States",Bloomington,Illinois,61701,Central,Furniture,Tables,FUR-TA-10004534,6,24.8,595.2,55.2
+127,2022-07-14,"Standard Class",Consumer,"United States",Phoenix,Arizona,85023,West,"Office Supplies",Binders,OFF-BI-10003274,2,0,0,0
+128,2023-03-30,"Standard Class",Consumer,"United States",Phoenix,Arizona,85023,West,"Office Supplies",Storage,OFF-ST-10002974,7,9.6,230.4,30.4
+129,2023-09-18,"Second Class","Home Office","United States","Los Angeles",California,90004,West,Furniture,Chairs,FUR-CH-10001146,2,1.6,78.4,8.4
+130,2022-01-03,"Second Class","Home Office","United States","Los Angeles",California,90004,West,Furniture,Furnishings,FUR-FU-10003773,3,9.6,230.4,10.4
+131,2022-07-17,"First Class",Corporate,"United States",Columbus,Ohio,43229,East,Technology,Phones,TEC-PH-10002293,5,1.8,58.2,8.2
+132,2022-03-30,"First Class",Corporate,"United States",Columbus,Ohio,43229,East,"Office Supplies",Paper,OFF-PA-10002377,2,3.2,76.8,-3.2
+133,2022-05-01,"First Class",Corporate,"United States",Columbus,Ohio,43229,East,"Office Supplies",Fasteners,OFF-FA-10002780,9,1,19,-1
+134,2023-04-29,"Standard Class",Consumer,"United States",Roseville,California,95661,West,"Office Supplies",Paper,OFF-PA-10001804,3,0.8,19.2,-0.8
+135,2022-10-28,"Standard Class",Consumer,"United States",Roseville,California,95661,West,"Office Supplies",Paper,OFF-PA-10001736,1,2,38,8
+136,2022-03-05,"Standard Class",Consumer,"United States",Roseville,California,95661,West,"Office Supplies",Art,OFF-AR-10001149,4,0.5,9.5,-0.5
+137,2022-03-28,"Standard Class",Consumer,"United States",Roseville,California,95661,West,"Office Supplies",Fasteners,OFF-FA-10002988,2,0,0,0
+138,2023-10-16,"Standard Class",Consumer,"United States",Roseville,California,95661,West,"Office Supplies",Binders,OFF-BI-10004781,3,1.6,78.4,8.4
+139,2022-05-15,"Standard Class",Consumer,"United States",Roseville,California,95661,West,"Office Supplies",Supplies,OFF-SU-10001218,6,3.5,66.5,6.5
+140,2023-06-06,"Standard Class",Consumer,"United States",Roseville,California,95661,West,Furniture,Furnishings,FUR-FU-10001706,14,0.8,39.2,-0.8
+141,2022-06-10,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,FUR-FU-10004848,2,1.6,78.4,18.4
+142,2022-07-22,"Standard Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Art,OFF-AR-10000940,3,0.3,9.7,-0.3
+143,2023-12-27,"Standard Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Envelopes,OFF-EN-10004030,3,0.2,9.8,-0.2
+144,2023-11-29,"Standard Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Paper,OFF-PA-10004327,3,7,133,3
+145,2022-03-19,"Standard Class",Consumer,"United States",Independence,Missouri,64055,Central,"Office Supplies",Appliances,OFF-AP-10001058,3,16.8,823.2,43.2
+146,2023-06-04,"Standard Class",Consumer,"United States",Pasadena,California,91104,West,"Office Supplies",Storage,OFF-ST-10003656,7,20.1,649.9,49.9
+147,2023-05-31,"Standard Class","Home Office","United States",Newark,Ohio,43055,East,Furniture,Furnishings,FUR-FU-10000521,4,3.6,86.4,6.4
+148,2022-06-12,"Standard Class",Corporate,"United States",Franklin,Wisconsin,53132,Central,Technology,Phones,TEC-PH-10000215,11,15.2,364.8,14.8
+149,2022-05-18,"Standard Class",Corporate,"United States",Franklin,Wisconsin,53132,Central,Technology,Phones,TEC-PH-10001448,3,7.5,142.5,2.5
+150,2022-01-23,"Standard Class",Corporate,"United States",Franklin,Wisconsin,53132,Central,Furniture,Chairs,FUR-CH-10000454,8,58.5,1891.5,311.5
+151,2023-08-21,"Standard Class",Corporate,"United States",Franklin,Wisconsin,53132,Central,"Office Supplies",Binders,OFF-BI-10002735,5,6.8,163.2,13.2
+152,2023-08-31,"First Class","Home Office","United States",Scottsdale,Arizona,85254,West,"Office Supplies",Appliances,OFF-AP-10000326,5,8,152,12
+153,2022-10-25,"First Class","Home Office","United States",Scottsdale,Arizona,85254,West,Technology,Phones,TEC-PH-10001254,2,4,196,36
+154,2022-10-07,"First Class",Corporate,"United States","San Jose",California,95123,West,"Office Supplies",Paper,OFF-PA-10001950,7,2.4,57.6,7.6
+155,2023-03-25,"First Class",Corporate,"United States","San Jose",California,95123,West,"Office Supplies",Paper,OFF-PA-10002254,4,4.4,105.6,5.6
+156,2023-03-27,"First Class",Corporate,"United States","San Jose",California,95123,West,"Office Supplies",Storage,OFF-ST-10001590,6,3.2,76.8,16.8
+157,2022-05-03,"Standard Class","Home Office","United States",Seattle,Washington,98105,West,"Office Supplies",Art,OFF-AR-10001547,3,0.3,9.7,-0.3
+158,2022-05-18,"Second Class",Consumer,"United States",Seattle,Washington,98115,West,Furniture,Chairs,FUR-CH-10004063,2,9.2,450.8,70.8
+159,2022-04-25,"Standard Class",Consumer,"United States",Edmond,Oklahoma,73034,Central,"Office Supplies",Labels,OFF-LA-10002475,2,0.3,9.7,-0.3
+160,2022-06-30,"Standard Class",Consumer,"United States",Edmond,Oklahoma,73034,Central,Technology,Phones,TEC-PH-10004536,7,47,893,23
+161,2022-01-10,"First Class",Consumer,"United States","Los Angeles",California,90045,West,"Office Supplies",Paper,OFF-PA-10002751,1,0.4,9.6,-0.4
+162,2023-11-27,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,Technology,Accessories,TEC-AC-10003657,2,2.5,47.5,7.5
+163,2022-02-16,"Standard Class",Consumer,"United States",Carlsbad,"New Mexico",88220,West,"Office Supplies",Envelopes,OFF-EN-10001990,5,1.2,28.8,-1.2
+164,2022-08-14,"Standard Class",Consumer,"United States",Seattle,Washington,98115,West,"Office Supplies",Binders,OFF-BI-10004002,2,0.9,29.1,9.1
+165,2023-10-14,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,"Office Supplies",Art,OFF-AR-10004441,3,0.5,9.5,-0.5
+166,2022-10-16,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,Technology,Machines,TEC-MA-10000822,8,326.4,7833.6,983.6
+167,2022-11-20,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,"Office Supplies",Storage,OFF-ST-10000991,3,11.2,268.8,18.8
+168,2023-11-04,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,Furniture,Chairs,FUR-CH-10004287,9,69.6,1670.4,50.4
+169,2023-06-16,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,"Office Supplies",Art,OFF-AR-10002656,6,1.2,28.8,-1.2
+170,2022-10-20,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,"Office Supplies",Appliances,OFF-AP-10002518,5,3.6,176.4,26.4
+171,2022-07-12,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,Technology,Phones,TEC-PH-10003931,3,7,133,13
+172,2022-01-28,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,"Office Supplies",Paper,OFF-PA-10000659,3,0.4,19.6,-0.4
+173,2023-10-10,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,"Office Supplies",Paper,OFF-PA-10001144,2,4.4,105.6,5.6
+174,2022-10-05,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,Furniture,Chairs,FUR-CH-10003817,7,6.8,333.2,43.2
+175,2023-01-02,"Standard Class",Corporate,"United States",Chicago,Illinois,60623,Central,"Office Supplies",Appliances,OFF-AP-10000891,2,2,48,-2
+176,2023-04-07,"Standard Class",Corporate,"United States",Chicago,Illinois,60623,Central,"Office Supplies",Labels,OFF-LA-10003148,4,1,19,-1
+177,2022-04-21,"Second Class",Consumer,"United States",Houston,Texas,77036,Central,"Office Supplies",Appliances,OFF-AP-10002684,4,2,98,8
+178,2023-10-28,"Second Class",Consumer,"United States",Newark,Ohio,43055,East,Furniture,Chairs,FUR-CH-10004698,7,20,380,10
+179,2022-04-18,"Second Class",Consumer,"United States",Newark,Ohio,43055,East,"Office Supplies",Supplies,OFF-SU-10002189,5,0.6,19.4,-0.6
+180,2022-03-08,"Standard Class","Home Office","United States","New York City","New York",10009,East,"Office Supplies",Art,OFF-AR-10001940,1,0,0,0
+181,2023-06-08,"Second Class",Corporate,"United States",Decatur,Illinois,62521,Central,"Office Supplies",Storage,OFF-ST-10003455,2,1,19,-1
+182,2022-06-25,"Second Class",Corporate,"United States",Decatur,Illinois,62521,Central,Technology,Accessories,TEC-AC-10004659,7,12.3,397.7,17.7
+183,2022-01-10,"Second Class","Home Office","United States",Monroe,Louisiana,71203,South,Technology,Phones,TEC-PH-10003273,4,25,475,5
+184,2023-10-17,"Second Class","Home Office","United States",Monroe,Louisiana,71203,South,Technology,Phones,TEC-PH-10004896,5,3,147,7
+185,2023-02-23,"Second Class","Home Office","United States",Monroe,Louisiana,71203,South,Technology,Accessories,TEC-AC-10002345,2,1.5,28.5,-1.5
+186,2022-10-19,"Standard Class",Consumer,"United States",Fairfield,Connecticut,6824,East,"Office Supplies",Binders,OFF-BI-10001890,2,0.2,9.8,-0.2
+187,2022-08-22,"Standard Class","Home Office","United States","Los Angeles",California,90032,West,Technology,Accessories,TEC-AC-10002323,8,5.4,174.6,14.6
+188,2023-10-11,"Standard Class",Corporate,"United States","Grand Prairie",Texas,75051,Central,"Office Supplies",Storage,OFF-ST-10001328,3,1.6,38.4,-1.6
+189,2022-12-06,"Standard Class",Corporate,"United States","Grand Prairie",Texas,75051,Central,"Office Supplies",Paper,OFF-PA-10001950,3,0.6,19.4,-0.6
+190,2023-12-09,"First Class","Home Office","United States","New York City","New York",10035,East,Furniture,Bookcases,FUR-BO-10002613,4,27,873,53
+191,2022-07-12,"First Class","Home Office","United States","New York City","New York",10035,East,Technology,Phones,TEC-PH-10001552,6,2.8,67.2,7.2
+192,2022-06-23,"First Class","Home Office","United States","New York City","New York",10035,East,"Office Supplies",Paper,OFF-PA-10000061,8,2.5,47.5,-2.5
+193,2023-11-04,"First Class","Home Office","United States","New York City","New York",10035,East,Furniture,Bookcases,FUR-BO-10002545,3,12.6,617.4,97.4
+194,2022-11-11,"First Class","Home Office","United States","New York City","New York",10035,East,"Office Supplies",Art,OFF-AR-10003514,5,0.6,19.4,-0.6
+195,2023-01-07,"Standard Class",Corporate,"United States",Redlands,California,92374,West,"Office Supplies",Envelopes,OFF-EN-10001509,7,0.2,9.8,-0.2
+196,2022-10-26,"Standard Class",Consumer,"United States",Hamilton,Ohio,45011,East,"Office Supplies",Art,OFF-AR-10004685,2,0.5,9.5,-0.5
+197,2023-11-03,"Standard Class",Consumer,"United States",Hamilton,Ohio,45011,East,"Office Supplies",Art,OFF-AR-10004027,3,0.2,9.8,-0.2
+198,2023-03-05,"Standard Class","Home Office","United States",Westfield,"New Jersey",7090,East,"Office Supplies",Storage,OFF-ST-10001414,3,2.5,47.5,7.5
+199,2022-12-21,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Binders,OFF-BI-10000343,2,0,0,0
+200,2022-06-16,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Paper,OFF-PA-10002749,3,0.4,19.6,-0.4
+201,2022-12-11,"Standard Class",Consumer,"United States",Akron,Ohio,44312,East,"Office Supplies",Paper,OFF-PA-10002666,3,1,19,-1
+202,2022-07-13,"First Class",Consumer,"United States",Denver,Colorado,80219,West,Furniture,Tables,FUR-TA-10004289,2,6.6,213.4,13.4
+203,2022-12-31,"First Class",Consumer,"United States",Denver,Colorado,80219,West,"Office Supplies",Appliances,OFF-AP-10003622,1,0,0,0
+204,2022-03-12,"Second Class",Consumer,"United States",Dallas,Texas,75220,Central,"Office Supplies",Appliances,OFF-AP-10003217,2,1.4,68.6,8.6
+205,2023-10-14,"Standard Class",Corporate,"United States",Franklin,Tennessee,37064,South,Furniture,Furnishings,FUR-FU-10002960,7,1.2,38.8,-1.2
+206,2023-07-10,"Standard Class",Consumer,"United States",Whittier,California,90604,West,Technology,Phones,TEC-PH-10001918,4,13.2,426.8,56.8
+207,2023-12-01,"Standard Class",Consumer,"United States",Saginaw,Michigan,48601,Central,"Office Supplies",Storage,OFF-ST-10000642,4,3.2,76.8,6.8
+208,2023-08-08,"Standard Class",Consumer,"United States",Saginaw,Michigan,48601,Central,Technology,Phones,TEC-PH-10001700,2,3.9,126.1,6.1
+209,2022-08-19,"Standard Class",Consumer,"United States",Saginaw,Michigan,48601,Central,"Office Supplies",Binders,OFF-BI-10003274,4,0.6,19.4,-0.6
+210,2023-12-30,"Standard Class",Consumer,"United States",Saginaw,Michigan,48601,Central,"Office Supplies",Fasteners,OFF-FA-10000134,9,1,49,-1
+211,2022-07-17,"Standard Class",Consumer,"United States",Saginaw,Michigan,48601,Central,"Office Supplies",Storage,OFF-ST-10001522,1,4.5,85.5,5.5
+212,2023-10-07,"Second Class",Corporate,"United States",Dallas,Texas,75220,Central,Technology,Accessories,TEC-AC-10001266,2,0.8,19.2,-0.8
+213,2023-04-22,"Standard Class",Corporate,"United States",Medina,Ohio,44256,East,"Office Supplies",Labels,OFF-LA-10004544,2,0.8,19.2,-0.8
+214,2023-04-22,"Standard Class",Corporate,"United States",Medina,Ohio,44256,East,Furniture,Bookcases,FUR-BO-10004695,5,22.5,427.5,37.5
+215,2023-11-20,"Standard Class",Corporate,"United States",Medina,Ohio,44256,East,Technology,Phones,TEC-PH-10002844,3,1.8,58.2,8.2
+216,2023-03-31,"Standard Class",Corporate,"United States",Medina,Ohio,44256,East,Technology,Machines,TEC-MA-10000864,9,47.6,1142.4,102.4
+217,2022-08-29,"Standard Class",Corporate,"United States",Medina,Ohio,44256,East,Technology,Accessories,TEC-AC-10000109,2,4.5,85.5,5.5
+218,2022-05-06,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Storage,OFF-ST-10001328,6,2.7,87.3,7.3
+219,2023-08-10,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,Technology,Phones,TEC-PH-10002563,3,12,288,38
+220,2023-04-24,"First Class",Consumer,"United States",Dublin,Ohio,43017,East,"Office Supplies",Fasteners,OFF-FA-10000585,2,0.2,9.8,-0.2
+221,2022-03-24,"First Class",Consumer,"United States",Dublin,Ohio,43017,East,"Office Supplies",Paper,OFF-PA-10004000,6,0.8,19.2,-0.8
+222,2023-03-26,"First Class",Consumer,"United States",Dublin,Ohio,43017,East,"Office Supplies",Binders,OFF-BI-10002852,4,0.6,19.4,-0.6
+223,2022-04-18,"First Class",Consumer,"United States",Dublin,Ohio,43017,East,Furniture,Furnishings,FUR-FU-10000087,4,2.1,67.9,7.9
+224,2023-03-17,"First Class",Consumer,"United States",Dublin,Ohio,43017,East,Technology,Machines,TEC-MA-10001148,4,19.2,460.8,50.8
+225,2023-11-19,"First Class",Consumer,"United States",Dublin,Ohio,43017,East,"Office Supplies",Art,OFF-AR-10001958,2,1.2,28.8,-1.2
+226,2023-11-18,"Standard Class",Corporate,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Art,OFF-AR-10001026,1,0,0,0
+227,2023-04-22,"Standard Class",Corporate,"United States",Detroit,Michigan,48227,Central,Furniture,Tables,FUR-TA-10003748,5,12.4,607.6,97.6
+228,2022-04-22,"Standard Class",Corporate,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Storage,OFF-ST-10002485,1,0.6,19.4,-0.6
+229,2022-02-17,"Standard Class",Consumer,"United States",Columbia,Tennessee,38401,South,Furniture,Chairs,FUR-CH-10004860,2,3.2,156.8,26.8
+230,2023-10-02,"Standard Class",Consumer,"United States",Columbia,Tennessee,38401,South,Furniture,Chairs,FUR-CH-10004477,8,7.8,382.2,22.2
+231,2023-07-21,"Standard Class",Corporate,"United States",Charlotte,"North Carolina",28205,South,"Office Supplies",Binders,OFF-BI-10001679,7,1,19,-1
+232,2023-01-18,"Standard Class","Home Office","United States",Tampa,Florida,33614,South,Furniture,Tables,FUR-TA-10001705,2,9.2,220.8,10.8
+233,2023-10-19,"Standard Class","Home Office","United States",Tampa,Florida,33614,South,Furniture,Tables,FUR-TA-10003473,3,24.8,595.2,85.2
+234,2023-09-13,"Standard Class","Home Office","United States",Tampa,Florida,33614,South,"Office Supplies",Binders,OFF-BI-10001679,2,0.2,9.8,-0.2
+235,2023-11-10,"Standard Class","Home Office","United States",Tampa,Florida,33614,South,Furniture,Furnishings,FUR-FU-10004017,3,13,247,-3
+236,2023-11-26,"Standard Class","Home Office","United States",Tampa,Florida,33614,South,Technology,Accessories,TEC-AC-10003832,3,24.8,595.2,95.2
+237,2022-01-02,"Standard Class",Corporate,"United States","Santa Clara",California,95051,West,"Office Supplies",Paper,OFF-PA-10002479,2,0.4,9.6,-0.4
+238,2022-01-19,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,"Office Supplies",Paper,OFF-PA-10003349,5,1.2,28.8,-1.2
+239,2023-12-13,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,Furniture,Furnishings,FUR-FU-10000576,5,8.4,411.6,71.6
+240,2023-01-20,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,Furniture,Furnishings,FUR-FU-10004351,3,0.2,9.8,-0.2
+241,2023-04-25,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,Technology,Phones,TEC-PH-10000011,2,0.9,29.1,-0.9
+242,2023-05-27,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,Furniture,Tables,FUR-TA-10002607,5,5.4,174.6,24.6
+243,2022-11-08,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,Furniture,Furnishings,FUR-FU-10002505,3,0,0,0
+244,2022-01-08,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,"Office Supplies",Art,OFF-AR-10004685,2,0.3,9.7,-0.3
+245,2022-04-20,"Second Class","Home Office","United States",Lakeville,Minnesota,55044,Central,Furniture,Chairs,FUR-CH-10004063,7,40,1960,340
+246,2022-11-09,"Second Class","Home Office","United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Storage,OFF-ST-10002276,2,6.8,163.2,13.2
+247,2023-04-29,"Second Class","Home Office","United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Paper,OFF-PA-10004082,6,2.5,47.5,7.5
+248,2023-04-28,"Second Class","Home Office","United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Appliances,OFF-AP-10002945,5,75,1425,45
+249,2022-09-26,"Second Class","Home Office","United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Paper,OFF-PA-10000061,4,0.9,29.1,9.1
+250,2023-08-18,"Second Class",Consumer,"United States","San Francisco",California,94109,West,Furniture,Chairs,FUR-CH-10002965,2,16,304,4
+251,2023-09-19,"Standard Class",Consumer,"United States","San Diego",California,92037,West,"Office Supplies",Paper,OFF-PA-10004569,1,0.3,9.7,-0.3
+252,2022-05-28,"Standard Class",Consumer,"United States","San Diego",California,92037,West,Technology,Accessories,TEC-AC-10003832,13,134,3216,166
+253,2022-04-03,"First Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Storage,OFF-ST-10001228,6,4,76,6
+254,2022-04-18,"First Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Envelopes,OFF-EN-10003296,4,14.4,345.6,15.6
+255,2022-12-25,"Standard Class",Corporate,"United States",Chicago,Illinois,60623,Central,Furniture,Furnishings,FUR-FU-10002505,9,0.2,9.8,-0.2
+256,2022-11-26,"Standard Class",Corporate,"United States",Chicago,Illinois,60623,Central,"Office Supplies",Storage,OFF-ST-10004804,2,1.6,78.4,8.4
+257,2022-04-25,"Standard Class",Corporate,"United States",Chicago,Illinois,60623,Central,"Office Supplies",Storage,OFF-ST-10001590,5,1,49,9
+258,2023-04-08,"Standard Class",Corporate,"United States",Chicago,Illinois,60623,Central,Technology,Phones,TEC-PH-10001580,6,26,624,34
+259,2022-02-10,"Second Class",Consumer,"United States","New York City","New York",10009,East,Technology,Accessories,TEC-AC-10000290,3,1,19,-1
+260,2022-10-20,"Second Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Storage,OFF-ST-10002790,3,8.8,211.2,31.2
+261,2022-06-11,"Second Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Binders,OFF-BI-10003460,5,1,19,-1
+262,2023-08-29,"Standard Class",Corporate,"United States",Pasadena,Texas,77506,Central,"Office Supplies",Appliances,OFF-AP-10002203,2,0,0,0
+263,2022-12-26,"Second Class",Corporate,"United States",Houston,Texas,77036,Central,Technology,Machines,TEC-MA-10000822,3,91.8,2968.2,278.2
+264,2022-06-14,"Second Class",Corporate,"United States",Houston,Texas,77036,Central,Technology,Machines,TEC-MA-10003353,7,75.6,2444.4,274.4
+265,2023-06-20,"Standard Class",Consumer,"United States",Chicago,Illinois,60610,Central,Technology,Phones,TEC-PH-10001433,4,9.9,320.1,20.1
+266,2022-11-17,"Standard Class",Consumer,"United States",Brentwood,California,94513,West,Technology,Accessories,TEC-AC-10004469,2,3.2,76.8,6.8
+267,2023-10-25,"Standard Class",Corporate,"United States","Chapel Hill","North Carolina",27514,South,"Office Supplies",Art,OFF-AR-10003602,3,0.5,9.5,-0.5
+268,2022-05-19,"Standard Class",Consumer,"United States",Morristown,"New Jersey",7960,East,"Office Supplies",Fasteners,OFF-FA-10003472,6,0.2,9.8,-0.2
+269,2022-08-10,"Standard Class",Corporate,"United States",Cincinnati,Ohio,45231,East,"Office Supplies",Storage,OFF-ST-10004180,1,1.2,38.8,8.8
+270,2023-12-17,"Standard Class",Corporate,"United States",Cincinnati,Ohio,45231,East,"Office Supplies",Envelopes,OFF-EN-10004386,3,1.8,58.2,8.2
+271,2022-01-24,"Second Class",Corporate,"United States","San Francisco",California,94110,West,"Office Supplies",Storage,OFF-ST-10003208,4,14.6,715.4,125.4
+272,2022-09-16,"First Class",Consumer,"United States","San Francisco",California,94109,West,Technology,Accessories,TEC-AC-10003628,7,10.5,199.5,-0.5
+273,2022-11-29,"First Class",Consumer,"United States","San Francisco",California,94109,West,Furniture,Furnishings,FUR-FU-10003274,3,0.4,9.6,-0.4
+274,2022-10-31,"First Class",Consumer,"United States","San Francisco",California,94109,West,"Office Supplies",Binders,OFF-BI-10002557,3,0.4,9.6,-0.4
+275,2023-02-05,"First Class",Corporate,"United States",Inglewood,California,90301,West,"Office Supplies",Paper,OFF-PA-10002615,2,0.3,9.7,-0.3
+276,2023-04-04,"First Class",Corporate,"United States",Inglewood,California,90301,West,"Office Supplies",Art,OFF-AR-10001427,1,0.2,9.8,-0.2
+277,2023-10-20,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Paper,OFF-PA-10000673,2,0.4,9.6,-0.4
+278,2022-05-21,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Paper,OFF-PA-10004470,4,0.4,19.6,-0.4
+279,2022-03-10,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Storage,OFF-ST-10000876,6,1.2,58.8,8.8
+280,2022-05-17,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Labels,OFF-LA-10002043,3,1,19,-1
+281,2022-10-06,"Second Class",Consumer,"United States",Houston,Texas,77070,Central,"Office Supplies",Binders,OFF-BI-10004967,5,0,0,0
+282,2023-05-06,"Second Class",Consumer,"United States",Houston,Texas,77070,Central,Technology,Phones,TEC-PH-10001760,7,33.3,1076.7,26.7
+283,2023-10-05,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,Furniture,Tables,FUR-TA-10002903,5,52,988,38
+284,2022-07-28,"Standard Class",Consumer,"United States",Portland,Oregon,97206,West,"Office Supplies",Paper,OFF-PA-10000474,5,7,133,3
+285,2022-12-11,"Standard Class",Consumer,"United States",Portland,Oregon,97206,West,Technology,Accessories,TEC-AC-10001956,5,12,228,18
+286,2022-08-01,"Standard Class",Consumer,"United States",Portland,Oregon,97206,West,"Office Supplies",Paper,OFF-PA-10004100,6,1.5,28.5,-1.5
+287,2022-01-20,"Second Class",Corporate,"United States",Tamarac,Florida,33319,South,"Office Supplies",Binders,OFF-BI-10000778,7,7.5,242.5,12.5
+288,2023-06-05,"Second Class",Corporate,"United States",Tamarac,Florida,33319,South,"Office Supplies",Appliances,OFF-AP-10002684,2,3.8,186.2,36.2
+289,2023-04-01,"Second Class",Corporate,"United States",Tamarac,Florida,33319,South,"Office Supplies",Supplies,OFF-SU-10000646,5,48,912,102
+290,2022-01-23,"Second Class","Home Office","United States",Columbus,Ohio,43229,East,"Office Supplies",Fasteners,OFF-FA-10002983,7,1,19,-1
+291,2023-10-12,"Second Class","Home Office","United States",Columbus,Ohio,43229,East,"Office Supplies",Labels,OFF-LA-10004689,8,0.6,19.4,-0.6
+292,2023-06-22,"Second Class","Home Office","United States",Columbus,Ohio,43229,East,Technology,Accessories,TEC-AC-10002001,2,5.2,254.8,34.8
+293,2023-07-12,"Second Class","Home Office","United States",Columbus,Ohio,43229,East,Furniture,Bookcases,FUR-BO-10004709,3,3.6,86.4,6.4
+294,2023-06-20,"First Class",Corporate,"United States","Colorado Springs",Colorado,80906,West,Furniture,Furnishings,FUR-FU-10004091,8,15,285,5
+295,2023-05-30,"First Class",Corporate,"United States","Colorado Springs",Colorado,80906,West,Furniture,Chairs,FUR-CH-10001891,3,4.6,225.4,35.4
+296,2023-08-05,"First Class",Corporate,"United States","Colorado Springs",Colorado,80906,West,Furniture,Furnishings,FUR-FU-10002918,3,4.4,215.6,35.6
+297,2023-11-17,"First Class",Corporate,"United States","Colorado Springs",Colorado,80906,West,"Office Supplies",Binders,OFF-BI-10004593,5,4,76,6
+298,2023-08-04,"First Class",Corporate,"United States","Colorado Springs",Colorado,80906,West,"Office Supplies",Fasteners,OFF-FA-10004854,3,0.9,29.1,-0.9
+299,2022-09-25,"Standard Class",Corporate,"United States",Belleville,"New Jersey",7109,East,"Office Supplies",Paper,OFF-PA-10002105,5,0.6,29.4,9.4
+300,2022-09-24,"Standard Class",Corporate,"United States",Belleville,"New Jersey",7109,East,"Office Supplies",Storage,OFF-ST-10002756,8,21.6,1058.4,128.4
+301,2022-03-12,"Standard Class",Corporate,"United States",Belleville,"New Jersey",7109,East,"Office Supplies",Paper,OFF-PA-10004243,3,3,57,7
+302,2022-10-31,"Standard Class",Corporate,"United States",Belleville,"New Jersey",7109,East,Furniture,Furnishings,FUR-FU-10001861,4,3.2,76.8,6.8
+303,2022-06-29,"Standard Class",Corporate,"United States",Belleville,"New Jersey",7109,East,"Office Supplies",Binders,OFF-BI-10002706,1,0.4,9.6,-0.4
+304,2023-09-12,"Standard Class",Consumer,"United States",Chicago,Illinois,60623,Central,Furniture,Tables,FUR-TA-10002533,3,8.8,211.2,31.2
+305,2022-01-08,"Second Class",Corporate,"United States","New York City","New York",10024,East,Furniture,Furnishings,FUR-FU-10002671,2,0.6,29.4,9.4
+306,2023-09-01,"Standard Class",Corporate,"United States",Taylor,Michigan,48180,Central,"Office Supplies",Art,OFF-AR-10003651,3,0.4,9.6,-0.4
+307,2023-10-12,"Standard Class","Home Office","United States",Lakewood,"New Jersey",8701,East,"Office Supplies",Binders,OFF-BI-10001072,3,2.5,47.5,-2.5
+308,2023-08-15,"Standard Class","Home Office","United States",Lakewood,"New Jersey",8701,East,"Office Supplies",Art,OFF-AR-10002135,6,11.6,278.4,28.4
+309,2022-05-05,"First Class",Consumer,"United States",Arlington,Virginia,22204,South,"Office Supplies",Art,OFF-AR-10002804,1,0,0,0
+310,2023-08-06,"Second Class",Corporate,"United States",Arvada,Colorado,80004,West,Furniture,Furnishings,FUR-FU-10001918,4,1,19,-1
+311,2022-09-08,"Second Class",Corporate,"United States",Arvada,Colorado,80004,West,Furniture,Chairs,FUR-CH-10004086,2,18.8,451.2,51.2
+312,2022-05-30,"Second Class",Corporate,"United States",Arvada,Colorado,80004,West,Furniture,Furnishings,FUR-FU-10001756,1,0.8,19.2,-0.8
+313,2023-01-13,"Second Class",Corporate,"United States",Arvada,Colorado,80004,West,"Office Supplies",Labels,OFF-LA-10000634,3,0.3,9.7,-0.3
+314,2023-09-15,"Standard Class",Corporate,"United States",Hackensack,"New Jersey",7601,East,Furniture,Furnishings,FUR-FU-10001588,3,1.8,88.2,8.2
+315,2022-05-12,"Standard Class",Corporate,"United States","Saint Petersburg",Florida,33710,South,Technology,Phones,TEC-PH-10002398,2,9,171,11
+316,2022-03-10,"Standard Class",Corporate,"United States","Saint Petersburg",Florida,33710,South,"Office Supplies",Paper,OFF-PA-10001937,3,1,19,-1
+317,2023-06-16,"First Class",Corporate,"United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Art,OFF-AR-10003373,4,2,98,8
+318,2022-03-13,"Standard Class","Home Office","United States","New York City","New York",10024,East,Furniture,Chairs,FUR-CH-10002602,1,2.8,137.2,17.2
+319,2022-01-28,"Standard Class","Home Office","United States","New York City","New York",10024,East,Technology,Machines,TEC-MA-10002927,2,79.8,3910.2,240.2
+320,2023-12-09,"Standard Class","Home Office","United States","New York City","New York",10024,East,Technology,Phones,TEC-PH-10004093,6,8.4,271.6,41.6
+321,2023-07-12,"Standard Class","Home Office","United States","New York City","New York",10024,East,Technology,Accessories,TEC-AC-10000892,4,10.8,349.2,49.2
+322,2022-05-28,"Standard Class","Home Office","United States","New York City","New York",10024,East,"Office Supplies",Storage,OFF-ST-10002974,1,0.8,39.2,-0.8
+323,2023-01-02,"Standard Class",Corporate,"United States","Long Beach",California,90805,West,"Office Supplies",Fasteners,OFF-FA-10000624,2,0.5,9.5,-0.5
+324,2022-07-14,"Standard Class",Corporate,"United States",Hesperia,California,92345,West,"Office Supplies",Binders,OFF-BI-10004593,6,12.5,237.5,17.5
+325,2023-12-09,"Standard Class",Corporate,"United States",Hesperia,California,92345,West,Technology,Accessories,TEC-AC-10001908,1,3,97,17
+326,2022-12-07,"Second Class",Corporate,"United States",Murfreesboro,Tennessee,37130,South,Furniture,Furnishings,FUR-FU-10001967,1,0.8,19.2,-0.8
+327,2023-06-11,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,Technology,Phones,TEC-PH-10003645,3,8.7,281.3,11.3
+328,2023-10-01,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Storage,OFF-ST-10000675,2,2.5,47.5,7.5
+329,2023-04-07,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,Furniture,Chairs,FUR-CH-10003312,4,23.7,766.3,26.3
+330,2023-10-03,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Labels,OFF-LA-10001074,10,2,98,8
+331,2022-03-30,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Binders,OFF-BI-10001524,6,1.2,38.8,8.8
+332,2022-04-11,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,Technology,Phones,TEC-PH-10004614,2,2.4,77.6,7.6
+333,2022-03-21,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Binders,OFF-BI-10001153,2,0.4,19.6,-0.4
+334,2022-05-04,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Binders,OFF-BI-10001982,3,0,0,0
+335,2023-07-08,"Second Class",Consumer,"United States","Los Angeles",California,90045,West,"Office Supplies",Binders,OFF-BI-10001922,1,0,0,0
+336,2022-08-30,"Second Class",Consumer,"United States","Los Angeles",California,90045,West,Technology,Copiers,TEC-CO-10001449,2,19.2,940.8,170.8
+337,2022-09-07,"Second Class",Consumer,"United States","Los Angeles",California,90045,West,"Office Supplies",Binders,OFF-BI-10004140,4,0.2,9.8,-0.2
+338,2023-06-07,"Standard Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Binders,OFF-BI-10003314,2,0.5,9.5,-0.5
+339,2023-08-02,"Standard Class",Corporate,"United States","San Francisco",California,94122,West,Furniture,Tables,FUR-TA-10004575,3,28,672,102
+340,2022-07-09,"Second Class",Consumer,"United States",Layton,Utah,84041,West,"Office Supplies",Fasteners,OFF-FA-10000490,4,0,0,0
+341,2023-11-10,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Art,OFF-AR-10000122,4,0.4,19.6,-0.4
+342,2022-01-12,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Binders,OFF-BI-10003656,10,20.4,489.6,39.6
+343,2022-07-01,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Fasteners,OFF-FA-10002780,13,1.2,28.8,8.8
+344,2023-07-13,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,Technology,Phones,TEC-PH-10000702,12,2.8,67.2,7.2
+345,2023-04-21,"Standard Class",Consumer,"United States",Austin,Texas,78745,Central,"Office Supplies",Storage,OFF-ST-10000107,4,2.7,87.3,7.3
+346,2022-09-18,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,Technology,Phones,TEC-PH-10002293,3,1,49,-1
+347,2022-05-09,"Standard Class",Consumer,"United States",Lowell,Massachusetts,1852,East,"Office Supplies",Art,OFF-AR-10004027,3,0.4,9.6,-0.4
+348,2022-05-07,"Standard Class",Consumer,"United States",Lowell,Massachusetts,1852,East,"Office Supplies",Paper,OFF-PA-10000249,2,1,19,-1
+349,2023-10-25,"Standard Class",Consumer,"United States",Lowell,Massachusetts,1852,East,"Office Supplies",Art,OFF-AR-10001374,2,0.2,9.8,-0.2
+350,2023-02-01,"First Class","Home Office","United States","New York City","New York",10009,East,Technology,Accessories,TEC-AC-10000290,1,0.5,9.5,-0.5
+351,2023-02-04,"First Class","Home Office","United States","New York City","New York",10009,East,"Office Supplies",Paper,OFF-PA-10001970,2,1,19,-1
+352,2022-02-14,"First Class","Home Office","United States","New York City","New York",10009,East,"Office Supplies",Binders,OFF-BI-10002160,1,0,0,0
+353,2023-09-08,"First Class","Home Office","United States","New York City","New York",10009,East,"Office Supplies",Paper,OFF-PA-10001970,4,1.5,48.5,-1.5
+354,2023-10-29,"First Class","Home Office","United States","New York City","New York",10009,East,"Office Supplies",Binders,OFF-BI-10004995,4,174.4,4185.6,45.6
+355,2022-02-20,"Standard Class",Consumer,"United States","New York City","New York",10035,East,Furniture,Bookcases,FUR-BO-10002268,6,19.5,370.5,20.5
+356,2023-07-30,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Envelopes,OFF-EN-10001137,2,0.5,9.5,-0.5
+357,2023-05-01,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Art,OFF-AR-10002399,4,0.6,19.4,-0.6
+358,2023-01-26,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Paper,OFF-PA-10002713,5,0.6,29.4,-0.6
+359,2023-11-05,"Standard Class",Corporate,"United States",Charlotte,"North Carolina",28205,South,"Office Supplies",Paper,OFF-PA-10002666,5,1.6,38.4,8.4
+360,2022-08-22,"First Class",Corporate,"United States",Columbus,Georgia,31907,South,"Office Supplies",Appliances,OFF-AP-10001124,8,19.5,630.5,30.5
+361,2022-12-07,"First Class",Corporate,"United States",Columbus,Georgia,31907,South,"Office Supplies",Labels,OFF-LA-10001158,2,0.8,19.2,-0.8
+362,2022-10-31,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Labels,OFF-LA-10001158,2,0.4,19.6,-0.4
+363,2023-01-25,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Furniture,Chairs,FUR-CH-10000785,3,19.6,470.4,10.4
+364,2023-09-20,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Art,OFF-AR-10003732,2,0.2,9.8,-0.2
+365,2022-10-14,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Furniture,Furnishings,FUR-FU-10000023,8,2,48,8
+366,2022-08-15,"Standard Class",Consumer,"United States","San Francisco",California,94109,West,"Office Supplies",Storage,OFF-ST-10001713,4,10.5,199.5,-0.5
+367,2023-05-31,"Same Day",Corporate,"United States",Manchester,Connecticut,6040,East,"Office Supplies",Binders,OFF-BI-10002412,4,0.6,19.4,-0.6
+368,2022-07-15,"Same Day",Corporate,"United States",Manchester,Connecticut,6040,East,"Office Supplies",Supplies,OFF-SU-10001225,2,0.3,9.7,-0.3
+369,2023-01-30,"Same Day",Corporate,"United States",Manchester,Connecticut,6040,East,"Office Supplies",Storage,OFF-ST-10002406,7,3,97,7
+370,2022-10-29,"Same Day",Corporate,"United States",Manchester,Connecticut,6040,East,Furniture,Bookcases,FUR-BO-10002545,4,52,988,88
+371,2022-09-23,"Standard Class",Consumer,"United States",Harlingen,Texas,78550,Central,"Office Supplies",Paper,OFF-PA-10002036,5,1.5,28.5,-1.5
+372,2022-04-28,"Standard Class",Consumer,"United States",Harlingen,Texas,78550,Central,"Office Supplies",Storage,OFF-ST-10002205,3,1.5,48.5,8.5
+373,2022-09-27,"Standard Class",Consumer,"United States",Tucson,Arizona,85705,West,"Office Supplies",Binders,OFF-BI-10001982,5,0.3,9.7,-0.3
+374,2022-03-02,"Standard Class",Consumer,"United States",Tucson,Arizona,85705,West,Technology,Accessories,TEC-AC-10003911,8,20.4,999.6,129.6
+375,2022-11-17,"Standard Class",Consumer,"United States",Tucson,Arizona,85705,West,"Office Supplies",Art,OFF-AR-10000658,1,0.2,9.8,-0.2
+376,2023-05-16,"Standard Class",Consumer,"United States",Tucson,Arizona,85705,West,Technology,Accessories,TEC-AC-10002076,10,19.2,460.8,50.8
+377,2022-11-05,"First Class",Corporate,"United States",Quincy,Illinois,62301,Central,"Office Supplies",Paper,OFF-PA-10003039,4,3,97,17
+378,2023-02-25,"Standard Class",Corporate,"United States",Franklin,Massachusetts,2038,East,Furniture,Tables,FUR-TA-10004915,7,29.8,1460.2,160.2
+379,2023-05-17,"Standard Class",Consumer,"United States",Houston,Texas,77095,Central,"Office Supplies",Appliances,OFF-AP-10000696,3,0.5,9.5,-0.5
+380,2023-12-19,"Standard Class",Consumer,"United States",Houston,Texas,77095,Central,"Office Supplies",Storage,OFF-ST-10003327,3,0.6,19.4,-0.6
+381,2023-09-05,"Standard Class",Consumer,"United States",Houston,Texas,77095,Central,"Office Supplies",Binders,OFF-BI-10000309,4,0.3,9.7,-0.3
+382,2023-05-20,"First Class",Corporate,"United States","San Francisco",California,94109,West,"Office Supplies",Paper,OFF-PA-10004734,7,2.5,47.5,7.5
+383,2023-04-22,"First Class",Corporate,"United States","San Francisco",California,94109,West,"Office Supplies",Binders,OFF-BI-10002225,3,2.5,47.5,-2.5
+384,2023-03-21,"Second Class",Corporate,"United States",Taylor,Michigan,48180,Central,Technology,Accessories,TEC-AC-10004708,2,0.8,39.2,-0.8
+385,2023-02-08,"Standard Class",Consumer,"United States","Pembroke Pines",Florida,33024,South,Furniture,Tables,FUR-TA-10000617,3,15.2,364.8,34.8
+386,2023-01-27,"Standard Class",Consumer,"United States","Pembroke Pines",Florida,33024,South,Technology,Accessories,TEC-AC-10002335,3,2.4,77.6,7.6
+387,2023-10-07,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,Technology,Machines,TEC-MA-10001681,4,9.6,470.4,70.4
+388,2023-03-04,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,FUR-FU-10001935,1,0,0,0
+389,2023-08-26,"First Class",Consumer,"United States",Cincinnati,Ohio,45231,East,"Office Supplies",Art,OFF-AR-10004757,1,0,0,0
+390,2023-03-25,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Binders,OFF-BI-10000050,4,0.4,19.6,-0.4
+391,2023-03-14,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Technology,Accessories,TEC-AC-10001998,2,2,38,-2
+392,2022-05-27,"Second Class",Consumer,"United States","Des Moines",Washington,98198,West,Technology,Phones,TEC-PH-10003012,2,10,240,10
+393,2022-12-19,"Second Class",Consumer,"United States","Des Moines",Washington,98198,West,Technology,Copiers,TEC-CO-10002313,3,36,1764,164
+394,2022-11-03,"Second Class",Corporate,"United States",Peoria,Illinois,61604,Central,"Office Supplies",Binders,OFF-BI-10003982,3,0.2,9.8,-0.2
+395,2022-06-26,"Standard Class","Home Office","United States","Las Vegas",Nevada,89115,West,"Office Supplies",Binders,OFF-BI-10004492,3,2.4,77.6,17.6
+396,2022-08-23,"Second Class",Corporate,"United States",Warwick,"Rhode Island",2886,East,"Office Supplies",Storage,OFF-ST-10000798,2,1.5,48.5,8.5
+397,2023-09-23,"Second Class",Corporate,"United States",Warwick,"Rhode Island",2886,East,"Office Supplies",Paper,OFF-PA-10002552,2,0.2,9.8,-0.2
+398,2022-02-02,"Standard Class","Home Office","United States",Jackson,Michigan,49201,Central,"Office Supplies",Supplies,OFF-SU-10002573,4,3.5,66.5,6.5
+399,2023-11-29,"Second Class",Consumer,"United States",Houston,Texas,77036,Central,"Office Supplies",Storage,OFF-ST-10001580,3,1.2,38.8,-1.2
+400,2022-03-13,"Second Class",Consumer,"United States",Houston,Texas,77036,Central,Furniture,Bookcases,FUR-BO-10004834,4,120,2280,290
+401,2022-10-22,"Second Class",Consumer,"United States",Houston,Texas,77036,Central,"Office Supplies",Storage,OFF-ST-10000934,4,6.5,123.5,13.5
+402,2023-02-11,"Second Class",Consumer,"United States",Houston,Texas,77036,Central,Technology,Accessories,TEC-AC-10000158,2,1.8,58.2,-1.8
+403,2023-03-06,"First Class",Consumer,"United States",Miami,Florida,33180,South,"Office Supplies",Paper,OFF-PA-10001947,2,0.2,9.8,-0.2
+404,2023-12-04,"Standard Class",Corporate,"United States",Wilmington,"North Carolina",28403,South,"Office Supplies",Art,OFF-AR-10003478,6,1.6,38.4,8.4
+405,2023-02-12,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Appliances,OFF-AP-10004249,3,1.2,38.8,-1.2
+406,2023-04-02,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Technology,Accessories,TEC-AC-10000158,5,7.2,172.8,32.8
+407,2022-08-09,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Technology,Copiers,TEC-CO-10004115,3,60,1140,10
+408,2022-05-25,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,OFF-PA-10003724,5,1.2,28.8,-1.2
+409,2022-08-28,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Furniture,Tables,FUR-TA-10002041,7,40,960,160
+410,2022-11-25,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,OFF-PA-10002893,1,0.3,9.7,-0.3
+411,2023-12-19,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Labels,OFF-LA-10003766,9,1.2,28.8,-1.2
+412,2023-01-13,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,OFF-PA-10001970,1,3,57,-3
+413,2022-05-11,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Furniture,Bookcases,FUR-BO-10001972,13,53.6,1286.4,26.4
+414,2023-12-31,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Furniture,Chairs,FUR-CH-10003956,2,5.5,104.5,4.5
+415,2023-12-08,"Standard Class",Corporate,"United States",Seattle,Washington,98105,West,"Office Supplies",Paper,OFF-PA-10000157,7,4.2,135.8,15.8
+416,2022-08-05,"Standard Class",Corporate,"United States",Seattle,Washington,98105,West,Furniture,Chairs,FUR-CH-10001891,4,6.2,303.8,53.8
+417,2023-07-10,"Standard Class",Consumer,"United States","Huntington Beach",California,92646,West,"Office Supplies",Art,OFF-AR-10004344,8,5,95,5
+418,2022-08-20,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,Furniture,Chairs,FUR-CH-10004886,5,15.2,364.8,44.8
+419,2022-07-20,"Standard Class",Corporate,"United States",Richmond,Kentucky,40475,South,"Office Supplies",Paper,OFF-PA-10003845,1,0.5,9.5,-0.5
+420,2022-10-20,"Standard Class",Corporate,"United States","Los Angeles",California,90045,West,"Office Supplies",Art,OFF-AR-10001573,4,0.4,9.6,-0.4
+421,2022-02-10,"Standard Class",Corporate,"United States","Los Angeles",California,90045,West,"Office Supplies",Envelopes,OFF-EN-10000483,1,1,19,-1
+422,2023-08-28,"First Class",Consumer,"United States",Louisville,Colorado,80027,West,Technology,Accessories,TEC-AC-10004114,6,6,194,34
+423,2023-12-18,"Standard Class",Corporate,"United States",Lawrence,Massachusetts,1841,East,Furniture,Furnishings,FUR-FU-10004712,4,1.8,58.2,-1.8
+424,2022-10-17,"Standard Class",Corporate,"United States",Lawrence,Massachusetts,1841,East,"Office Supplies",Storage,OFF-ST-10000918,3,1.5,28.5,-1.5
+425,2023-04-01,"Second Class",Consumer,"United States",Jackson,Mississippi,39212,South,Furniture,Chairs,FUR-CH-10000015,4,34.8,835.2,35.2
+426,2023-12-26,"Second Class",Corporate,"United States",Canton,Michigan,48187,Central,Furniture,Furnishings,FUR-FU-10003347,2,1.2,28.8,-1.2
+427,2023-11-07,"Second Class",Corporate,"United States",Canton,Michigan,48187,Central,"Office Supplies",Binders,OFF-BI-10001543,8,11.6,278.4,-1.6
+428,2023-06-03,"First Class","Home Office","United States","New Rochelle","New York",10801,East,Technology,Machines,TEC-MA-10000029,1,2.1,67.9,7.9
+429,2022-02-18,"Standard Class",Corporate,"United States","San Antonio",Texas,78207,Central,"Office Supplies",Art,OFF-AR-10000369,6,0.5,9.5,-0.5
+430,2023-03-19,"Standard Class","Home Office","United States",Gastonia,"North Carolina",28052,South,"Office Supplies",Binders,OFF-BI-10004584,2,7.6,182.4,22.4
+431,2023-03-10,"Standard Class","Home Office","United States",Gastonia,"North Carolina",28052,South,Technology,Accessories,TEC-AC-10004659,7,12.3,397.7,67.7
+432,2023-09-23,"Standard Class","Home Office","United States",Gastonia,"North Carolina",28052,South,Technology,Accessories,TEC-AC-10004659,5,14.5,275.5,5.5
+433,2022-04-15,"Standard Class","Home Office","United States",Gastonia,"North Carolina",28052,South,"Office Supplies",Storage,OFF-ST-10000617,2,0,0,0
+434,2023-08-17,"First Class",Consumer,"United States",Lowell,Massachusetts,1852,East,"Office Supplies",Storage,OFF-ST-10003306,5,28.4,681.6,101.6
+435,2022-02-13,"Standard Class",Consumer,"United States",Jacksonville,Florida,32216,South,"Office Supplies",Binders,OFF-BI-10000773,2,0,0,0
+436,2023-10-25,"Standard Class",Consumer,"United States",Jacksonville,Florida,32216,South,Technology,Accessories,TEC-AC-10002600,5,5,245,35
+437,2023-02-10,"Second Class","Home Office","United States",Chicago,Illinois,60623,Central,Technology,Machines,TEC-MA-10002937,3,40.4,969.6,39.6
+438,2022-02-23,"Second Class","Home Office","United States",Chicago,Illinois,60623,Central,"Office Supplies",Paper,OFF-PA-10001970,7,12.4,297.6,27.6
+439,2022-11-18,"Standard Class",Corporate,"United States",Houston,Texas,77070,Central,"Office Supplies",Paper,OFF-PA-10002230,8,0.9,29.1,-0.9
+440,2022-06-06,"Second Class",Corporate,"United States","New York City","New York",10024,East,Furniture,Chairs,FUR-CH-10003396,3,10.5,199.5,9.5
+441,2022-01-09,"Second Class",Consumer,"United States",Detroit,Michigan,48227,Central,Furniture,Furnishings,FUR-FU-10000246,1,0.3,9.7,-0.3
+442,2023-05-30,"Second Class",Consumer,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Storage,OFF-ST-10000060,3,7.6,182.4,32.4
+443,2022-10-15,"Second Class",Consumer,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Storage,OFF-ST-10003058,3,2.8,67.2,7.2
+444,2022-12-15,"Second Class",Consumer,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Paper,OFF-PA-10002222,4,2.7,87.3,7.3
+445,2022-07-06,"Second Class",Consumer,"United States",Detroit,Michigan,48227,Central,Furniture,Chairs,FUR-CH-10002372,3,9.6,230.4,20.4
+446,2022-03-13,"Second Class",Consumer,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Labels,OFF-LA-10001317,7,0.6,19.4,-0.6
+447,2022-10-07,"Second Class",Consumer,"United States",Columbus,Indiana,47201,Central,Furniture,Furnishings,FUR-FU-10000206,1,0,0,0
+448,2023-12-05,"Second Class",Consumer,"United States",Auburn,"New York",13021,East,"Office Supplies",Art,OFF-AR-10000588,3,2.4,57.6,7.6
+449,2023-12-07,"Second Class",Consumer,"United States",Auburn,"New York",13021,East,"Office Supplies",Storage,OFF-ST-10001469,3,6.4,153.6,23.6
+450,2022-03-14,"Second Class",Consumer,"United States",Auburn,"New York",13021,East,"Office Supplies",Art,OFF-AR-10001953,6,5.2,254.8,44.8
+451,2023-07-21,"Second Class",Consumer,"United States",Auburn,"New York",13021,East,"Office Supplies",Art,OFF-AR-10003156,3,1.2,28.8,-1.2
+452,2022-04-04,"Second Class",Consumer,"United States",Auburn,"New York",13021,East,"Office Supplies",Art,OFF-AR-10004974,3,0.4,9.6,-0.4
+453,2023-03-16,"Second Class",Consumer,"United States",Auburn,"New York",13021,East,Technology,Phones,TEC-PH-10002365,4,1.2,38.8,-1.2
+454,2022-12-05,"Standard Class",Corporate,"United States",Akron,Ohio,44312,East,Furniture,Tables,FUR-TA-10001539,2,11.2,268.8,48.8
+455,2023-12-23,"Standard Class",Corporate,"United States",Akron,Ohio,44312,East,"Office Supplies",Storage,OFF-ST-10000142,2,13.4,656.6,86.6
+456,2022-11-08,"Standard Class",Corporate,"United States",Norman,Oklahoma,73071,Central,Technology,Accessories,TEC-AC-10001772,4,3,57,7
+457,2023-03-26,"Standard Class",Consumer,"United States",Concord,California,94521,West,Furniture,Chairs,FUR-CH-10000225,2,2.6,127.4,7.4
+458,2023-12-22,"Standard Class",Consumer,"United States",Decatur,Illinois,62521,Central,Furniture,Chairs,FUR-CH-10002331,3,37.5,712.5,42.5
+459,2023-09-24,"Standard Class",Consumer,"United States",Decatur,Illinois,62521,Central,"Office Supplies",Envelopes,OFF-EN-10001415,2,0.2,9.8,-0.2
+460,2022-11-30,"Standard Class",Consumer,"United States",Seattle,Washington,98115,West,"Office Supplies",Appliances,OFF-AP-10002472,4,3,97,17
+461,2023-02-04,"Standard Class",Consumer,"United States",Seattle,Washington,98115,West,Technology,Accessories,TEC-AC-10004571,9,45,855,95
+462,2022-10-01,"Standard Class",Consumer,"United States",Seattle,Washington,98115,West,"Office Supplies",Binders,OFF-BI-10001098,3,1,49,-1
+463,2022-05-11,"Standard Class","Home Office","United States",Phoenix,Arizona,85023,West,Furniture,Furnishings,FUR-FU-10000023,5,0.6,19.4,-0.6
+464,2023-03-05,"Standard Class","Home Office","United States",Phoenix,Arizona,85023,West,Furniture,Tables,FUR-TA-10001889,6,50.8,1219.2,139.2
+465,2023-02-09,"Standard Class","Home Office","United States",Phoenix,Arizona,85023,West,"Office Supplies",Binders,OFF-BI-10000315,5,1.2,28.8,-1.2
+466,2023-04-23,"Standard Class","Home Office","United States",Phoenix,Arizona,85023,West,"Office Supplies",Supplies,OFF-SU-10003505,2,9.5,180.5,0.5
+467,2023-10-14,"Standard Class","Home Office","United States",Phoenix,Arizona,85023,West,"Office Supplies",Appliances,OFF-AP-10002578,2,2.4,77.6,-2.4
+468,2022-04-24,"Standard Class","Home Office","United States","Park Ridge",Illinois,60068,Central,Furniture,Furnishings,FUR-FU-10002918,7,7.5,242.5,42.5
+469,2023-04-20,"Standard Class",Corporate,"United States",Amarillo,Texas,79109,Central,Furniture,Bookcases,FUR-BO-10002824,2,10.5,199.5,-0.5
+470,2022-12-04,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,"Office Supplies",Binders,OFF-BI-10002194,3,0,0,0
+471,2022-11-20,"Standard Class",Corporate,"United States",Lindenhurst,"New York",11757,East,"Office Supplies",Paper,OFF-PA-10004071,1,1.8,58.2,8.2
+472,2022-01-25,"Second Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Storage,OFF-ST-10002743,3,6.8,333.2,43.2
+473,2023-10-27,"Second Class",Consumer,"United States","San Francisco",California,94110,West,Furniture,Bookcases,FUR-BO-10001601,2,11,209,9
+474,2022-12-27,"Second Class",Consumer,"United States","San Francisco",California,94110,West,Technology,Phones,TEC-PH-10002680,4,14,686,76
+475,2023-12-12,"Second Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Storage,OFF-ST-10001321,6,2.7,87.3,7.3
+476,2022-07-16,"Second Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,OFF-PA-10001509,7,1.8,58.2,-1.8
+477,2022-06-30,"Second Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,OFF-PA-10003465,5,3.6,86.4,-3.6
+478,2023-08-06,"Standard Class",Corporate,"United States","Los Angeles",California,90008,West,Technology,Phones,TEC-PH-10000149,6,4,96,6
+479,2022-02-01,"Standard Class",Consumer,"United States",Troy,"New York",12180,East,Furniture,Furnishings,FUR-FU-10002671,3,1.6,38.4,8.4
+480,2023-07-03,"Standard Class",Corporate,"United States","New York City","New York",10024,East,"Office Supplies",Art,OFF-AR-10003045,5,0.4,9.6,-0.4
+481,2023-08-07,"Standard Class",Corporate,"United States","New York City","New York",10024,East,"Office Supplies",Storage,OFF-ST-10000689,5,35,665,65
+482,2022-12-16,"Standard Class",Consumer,"United States","San Diego",California,92024,West,Technology,Accessories,TEC-AC-10001445,3,0.2,9.8,-0.2
+483,2023-02-03,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Art,OFF-AR-10002053,2,0.4,9.6,-0.4
+484,2023-10-10,"Standard Class",Consumer,"United States","New York City","New York",10024,East,Technology,Accessories,TEC-AC-10002567,2,6.4,153.6,13.6
+485,2023-10-15,"First Class","Home Office","United States","Los Angeles",California,90045,West,"Office Supplies",Labels,OFF-LA-10003923,2,1.5,28.5,-1.5
+486,2023-12-14,"First Class","Home Office","United States","Los Angeles",California,90045,West,Furniture,Bookcases,FUR-BO-10001337,5,20.4,489.6,9.6
+487,2023-03-09,"First Class","Home Office","United States","Los Angeles",California,90045,West,Technology,Phones,TEC-PH-10001924,5,14,266,16
+488,2023-04-28,"First Class",Consumer,"United States",Chicago,Illinois,60610,Central,Technology,Phones,TEC-PH-10001363,6,109.6,2630.4,330.4
+489,2022-12-22,"Second Class","Home Office","United States",Huntsville,Texas,77340,Central,Technology,Phones,TEC-PH-10000376,1,0.5,9.5,-0.5
+490,2023-06-06,"Second Class","Home Office","United States",Huntsville,Texas,77340,Central,Technology,Accessories,TEC-AC-10000303,2,3,57,7
+491,2022-02-08,"Second Class","Home Office","United States",Huntsville,Texas,77340,Central,"Office Supplies",Art,OFF-AR-10001953,2,2.8,67.2,-2.8
+492,2023-01-08,"Standard Class",Consumer,"United States",Rochester,"New York",14609,East,"Office Supplies",Storage,OFF-ST-10001809,5,18,432,22
+493,2023-01-03,"Standard Class",Consumer,"United States",Rochester,"New York",14609,East,"Office Supplies",Envelopes,OFF-EN-10003845,3,0.5,9.5,-0.5
+494,2023-06-26,"Standard Class",Consumer,"United States",Seattle,Washington,98115,West,Technology,Accessories,TEC-AC-10000991,2,3.6,86.4,6.4
+495,2022-12-09,"Second Class",Consumer,"United States",Memphis,Tennessee,38109,South,Furniture,Tables,FUR-TA-10001857,3,9.5,180.5,0.5
+496,2022-10-13,"Standard Class",Consumer,"United States",Fayetteville,Arkansas,72701,South,"Office Supplies",Envelopes,OFF-EN-10001434,2,3.3,106.7,6.7
+497,2022-05-21,"Standard Class",Consumer,"United States","Costa Mesa",California,92627,West,"Office Supplies",Binders,OFF-BI-10002498,8,2.4,117.6,7.6
+498,2022-08-28,"Standard Class",Consumer,"United States","Costa Mesa",California,92627,West,Furniture,Furnishings,FUR-FU-10004864,4,5.2,254.8,24.8
+499,2022-04-10,"Standard Class",Consumer,"United States","Costa Mesa",California,92627,West,Furniture,Chairs,FUR-CH-10002602,2,12,228,28
+500,2023-08-28,"Standard Class",Consumer,"United States","Costa Mesa",California,92627,West,Furniture,Furnishings,FUR-FU-10000073,9,3.5,66.5,6.5
+501,2022-12-25,"Standard Class",Corporate,"United States",Parker,Colorado,80134,West,"Office Supplies",Binders,OFF-BI-10001670,2,0.8,19.2,-0.8
+502,2023-04-29,"Standard Class",Corporate,"United States",Parker,Colorado,80134,West,"Office Supplies",Binders,OFF-BI-10001658,2,0.5,9.5,-0.5
+503,2023-11-06,"Standard Class",Corporate,"United States",Parker,Colorado,80134,West,Furniture,Chairs,FUR-CH-10001215,2,24,776,126
+504,2023-10-28,"Standard Class",Corporate,"United States",Parker,Colorado,80134,West,"Office Supplies",Binders,OFF-BI-10000831,3,0,0,0
+505,2022-08-03,"Standard Class",Corporate,"United States",Parker,Colorado,80134,West,"Office Supplies",Paper,OFF-PA-10000357,1,1.2,28.8,-1.2
+506,2023-01-27,"Second Class",Corporate,"United States","New York City","New York",10024,East,"Office Supplies",Binders,OFF-BI-10003274,5,0.6,19.4,-0.6
+507,2022-07-28,"Standard Class",Consumer,"United States",Atlanta,Georgia,30318,South,"Office Supplies",Art,OFF-AR-10001662,1,0,0,0
+508,2023-03-04,"Standard Class",Consumer,"United States",Atlanta,Georgia,30318,South,"Office Supplies",Art,OFF-AR-10003856,3,0.2,9.8,-0.2
+509,2022-10-10,"Standard Class",Consumer,"United States",Atlanta,Georgia,30318,South,"Office Supplies",Storage,OFF-ST-10001228,3,2,48,-2
+510,2023-12-10,"Standard Class",Consumer,"United States",Atlanta,Georgia,30318,South,"Office Supplies",Binders,OFF-BI-10003527,5,190.5,6159.5,949.5
+511,2023-01-30,"First Class",Consumer,"United States",Gladstone,Missouri,64118,Central,Furniture,Furnishings,FUR-FU-10001290,3,2.6,127.4,17.4
+512,2022-12-28,"First Class",Consumer,"United States",Gladstone,Missouri,64118,Central,Technology,Accessories,TEC-AC-10002399,2,0.8,39.2,-0.8
+513,2022-10-28,"First Class",Consumer,"United States",Newark,Ohio,43055,East,"Office Supplies",Art,OFF-AR-10002053,3,0.4,9.6,-0.4
+514,2023-09-28,"Standard Class",Consumer,"United States","Los Angeles",California,90049,West,"Office Supplies",Art,OFF-AR-10003811,3,0.3,9.7,-0.3
+515,2023-07-19,"Standard Class",Consumer,"United States","Los Angeles",California,90049,West,"Office Supplies",Art,OFF-AR-10001246,2,0.3,9.7,-0.3
+516,2022-01-04,"Standard Class","Home Office","United States","Great Falls",Montana,59405,West,Technology,Copiers,TEC-CO-10003236,5,150,2850,420
+517,2022-08-25,"Standard Class","Home Office","United States","Great Falls",Montana,59405,West,"Office Supplies",Storage,OFF-ST-10004507,3,2,48,8
+518,2022-09-03,"Standard Class","Home Office","United States","Great Falls",Montana,59405,West,"Office Supplies",Paper,OFF-PA-10001667,2,0.3,9.7,-0.3
+519,2022-11-10,"Standard Class","Home Office","United States","Great Falls",Montana,59405,West,"Office Supplies",Storage,OFF-ST-10004459,3,56.5,1073.5,53.5
+520,2022-04-11,"Standard Class",Consumer,"United States",Houston,Texas,77041,Central,Technology,Accessories,TEC-AC-10000171,1,0.8,19.2,-0.8
+521,2023-03-24,"Standard Class",Consumer,"United States",Houston,Texas,77041,Central,"Office Supplies",Storage,OFF-ST-10000736,2,5.2,124.8,4.8
+522,2022-05-24,"Standard Class",Consumer,"United States",Houston,Texas,77041,Central,"Office Supplies",Binders,OFF-BI-10000285,9,0.3,9.7,-0.3
+523,2023-12-17,"First Class",Corporate,"United States",Detroit,Michigan,48234,Central,Furniture,Tables,FUR-TA-10001857,2,4.2,205.8,25.8
+524,2022-11-01,"First Class",Consumer,"United States","Los Angeles",California,90032,West,Technology,Phones,TEC-PH-10003555,3,3,57,7
+525,2023-11-19,"First Class",Consumer,"United States","Los Angeles",California,90032,West,Technology,Accessories,TEC-AC-10003832,2,2.8,67.2,7.2
+526,2022-07-18,"Standard Class",Consumer,"United States",Lawrence,Massachusetts,1841,East,"Office Supplies",Fasteners,OFF-FA-10002815,5,0.8,19.2,-0.8
+527,2023-01-06,"Standard Class","Home Office","United States",Lakeland,Florida,33801,South,Furniture,Chairs,FUR-CH-10003379,3,13.6,666.4,126.4
+528,2023-11-22,"Standard Class","Home Office","United States",Lakeland,Florida,33801,South,Furniture,Furnishings,FUR-FU-10001756,3,1,49,-1
+529,2022-11-11,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Storage,OFF-ST-10004963,3,2,38,-2
+530,2022-01-29,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Supplies,OFF-SU-10002881,1,13.4,656.6,106.6
+531,2023-01-02,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Envelopes,OFF-EN-10001335,6,1.5,48.5,-1.5
+532,2022-12-05,"Second Class",Corporate,"United States","Los Angeles",California,90036,West,Furniture,Chairs,FUR-CH-10000595,1,5.7,184.3,34.3
+533,2023-05-14,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,Furniture,Furnishings,FUR-FU-10000448,3,1,49,9
+534,2022-02-28,"Second Class",Consumer,"United States",Montgomery,Alabama,36116,South,Technology,Phones,TEC-PH-10000984,5,29.4,950.6,130.6
+535,2023-06-05,"Second Class",Consumer,"United States",Montgomery,Alabama,36116,South,"Office Supplies",Binders,OFF-BI-10002557,5,0.4,19.6,-0.4
+536,2022-08-27,"Standard Class",Consumer,"United States",Mesa,Arizona,85204,West,"Office Supplies",Storage,OFF-ST-10001325,2,1,19,-1
+537,2022-10-26,"Second Class",Consumer,"United States",Chicago,Illinois,60653,Central,"Office Supplies",Binders,OFF-BI-10002429,7,2,38,8
+538,2022-08-23,"Standard Class","Home Office","United States","New York City","New York",10009,East,"Office Supplies",Binders,OFF-BI-10004528,4,0.4,9.6,-0.4
+539,2023-05-21,"Standard Class",Consumer,"United States",Henderson,Kentucky,42420,South,"Office Supplies",Appliances,OFF-AP-10001271,3,6,144,14
+540,2023-10-23,"Standard Class",Consumer,"United States",Henderson,Kentucky,42420,South,Furniture,Chairs,FUR-CH-10002647,4,11.2,268.8,38.8
+541,2023-04-04,"First Class",Consumer,"United States","Green Bay",Wisconsin,54302,Central,Technology,Accessories,TEC-AC-10001432,6,18.8,451.2,41.2
+542,2022-11-28,"First Class",Corporate,"United States",Tucson,Arizona,85705,West,Technology,Phones,TEC-PH-10002262,8,15.2,364.8,64.8
+543,2023-04-08,"Standard Class",Consumer,"United States",Springfield,Ohio,45503,East,"Office Supplies",Storage,OFF-ST-10001809,9,13,637,37
+544,2023-12-15,"Standard Class",Consumer,"United States","Fort Worth",Texas,76106,Central,Technology,Accessories,TEC-AC-10001465,2,2.4,57.6,7.6
+545,2023-06-30,"Standard Class",Consumer,"United States","Fort Worth",Texas,76106,Central,Technology,Phones,TEC-PH-10002597,1,5,95,-5
+546,2023-11-13,"Standard Class",Consumer,"United States","Fort Worth",Texas,76106,Central,Furniture,Furnishings,FUR-FU-10000723,4,2.1,67.9,7.9
+547,2022-08-26,"First Class","Home Office","United States","New York City","New York",10035,East,"Office Supplies",Binders,OFF-BI-10000404,6,1.6,38.4,8.4
+548,2022-09-22,"First Class","Home Office","United States","New York City","New York",10035,East,"Office Supplies",Paper,OFF-PA-10002986,2,0.5,9.5,-0.5
+549,2022-09-21,"Second Class",Corporate,"United States",Chicago,Illinois,60653,Central,"Office Supplies",Storage,OFF-ST-10000604,9,10,240,30
+550,2022-06-05,"Second Class",Corporate,"United States",Chicago,Illinois,60653,Central,"Office Supplies",Binders,OFF-BI-10004738,3,0.5,9.5,-0.5
+551,2023-01-09,"Second Class",Corporate,"United States",Chicago,Illinois,60653,Central,"Office Supplies",Supplies,OFF-SU-10001935,5,0.5,9.5,-0.5
+552,2023-09-21,"Second Class",Consumer,"United States","San Francisco",California,94110,West,Furniture,Chairs,FUR-CH-10002024,2,33.6,1086.4,156.4
+553,2022-06-02,"First Class",Consumer,"United States",Jacksonville,Florida,32216,South,Furniture,Furnishings,FUR-FU-10003039,1,0.9,29.1,9.1
+554,2022-09-01,"Standard Class",Consumer,"United States",Houston,Texas,77070,Central,"Office Supplies",Fasteners,OFF-FA-10004248,3,0.4,9.6,-0.4
+555,2023-03-09,"Second Class",Corporate,"United States",Anaheim,California,92804,West,"Office Supplies",Storage,OFF-ST-10001780,2,26,1274,74
+556,2023-07-01,"Second Class",Consumer,"United States",Wilmington,"North Carolina",28403,South,"Office Supplies",Art,OFF-AR-10003560,4,1,19,-1
+557,2022-11-17,"Standard Class",Consumer,"United States","Los Angeles",California,90045,West,"Office Supplies",Labels,OFF-LA-10001297,2,0.4,19.6,-0.4
+558,2023-11-25,"Standard Class",Consumer,"United States","Los Angeles",California,90045,West,Furniture,Tables,FUR-TA-10004256,4,53.6,1286.4,26.4
+559,2023-11-29,"Standard Class",Consumer,"United States","Los Angeles",California,90045,West,"Office Supplies",Paper,OFF-PA-10003441,5,0.9,29.1,-0.9
+560,2022-11-27,"Second Class",Consumer,"United States","San Francisco",California,94110,West,Furniture,Furnishings,FUR-FU-10003347,3,2,38,-2
+561,2022-06-21,"Second Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Binders,OFF-BI-10000069,7,3.2,76.8,6.8
+562,2023-03-17,"Second Class",Consumer,"United States",Tampa,Florida,33614,South,"Office Supplies",Appliances,OFF-AP-10003914,5,0.4,9.6,-0.4
+563,2022-10-04,"Second Class",Consumer,"United States",Tampa,Florida,33614,South,Furniture,Furnishings,FUR-FU-10004020,3,0.2,9.8,-0.2
+564,2022-06-14,"First Class",Consumer,"United States",Seattle,Washington,98105,West,"Office Supplies",Fasteners,OFF-FA-10003467,2,0,0,0
+565,2022-01-26,"First Class",Consumer,"United States",Seattle,Washington,98105,West,"Office Supplies",Labels,OFF-LA-10000634,1,0,0,0
+566,2022-10-06,"First Class",Consumer,"United States","Los Angeles",California,90008,West,Technology,Phones,TEC-PH-10002496,3,14.8,355.2,25.2
+567,2022-04-25,"Standard Class",Corporate,"United States",Seattle,Washington,98105,West,"Office Supplies",Paper,OFF-PA-10004530,8,4.5,85.5,15.5
+568,2022-01-01,"Standard Class",Corporate,"United States",Seattle,Washington,98105,West,"Office Supplies",Binders,OFF-BI-10001107,7,3.2,76.8,6.8
+569,2023-06-10,"Standard Class",Corporate,"United States",Seattle,Washington,98105,West,"Office Supplies",Paper,OFF-PA-10004451,3,0.4,19.6,-0.4
+570,2022-11-25,"Standard Class",Corporate,"United States",Seattle,Washington,98105,West,Furniture,Chairs,FUR-CH-10004997,3,18,432,62
+571,2022-03-01,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Labels,OFF-LA-10001297,7,2.1,67.9,7.9
+572,2023-07-29,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Fasteners,OFF-FA-10000585,4,0.3,9.7,-0.3
+573,2022-10-25,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Binders,OFF-BI-10001922,7,0.6,29.4,-0.6
+574,2023-07-04,"Standard Class",Consumer,"United States","New York City","New York",10024,East,Technology,Phones,TEC-PH-10000347,3,0.3,9.7,-0.3
+575,2022-10-02,"Standard Class",Consumer,"United States",Marysville,Washington,98270,West,"Office Supplies",Art,OFF-AR-10003394,3,0.5,9.5,-0.5
+576,2023-07-14,"Second Class",Consumer,"United States","Long Beach",California,90805,West,"Office Supplies",Paper,OFF-PA-10004530,14,6.4,153.6,3.6
+577,2023-04-22,"Second Class",Consumer,"United States","Long Beach",California,90805,West,"Office Supplies",Paper,OFF-PA-10001450,4,0.8,19.2,-0.8
+578,2023-11-11,"Second Class",Consumer,"United States","Long Beach",California,90805,West,"Office Supplies",Supplies,OFF-SU-10001574,2,0.5,9.5,-0.5
+579,2022-12-08,"Standard Class",Consumer,"United States",Chicago,Illinois,60610,Central,"Office Supplies",Storage,OFF-ST-10002974,2,2.1,67.9,-2.1
+580,2023-06-12,"Standard Class",Consumer,"United States",Chicago,Illinois,60610,Central,Furniture,Furnishings,FUR-FU-10001475,1,0.5,9.5,-0.5
+581,2023-11-02,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,"Office Supplies",Supplies,OFF-SU-10004498,4,1.5,48.5,-1.5
+582,2022-08-17,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,Technology,Phones,TEC-PH-10004977,3,23.5,446.5,6.5
+583,2022-08-23,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,Technology,Phones,TEC-PH-10000586,2,4.4,105.6,15.6
+584,2023-07-10,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,"Office Supplies",Appliances,OFF-AP-10000358,3,1.5,28.5,-1.5
+585,2023-07-22,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,"Office Supplies",Binders,OFF-BI-10002764,7,0.2,9.8,-0.2
+586,2023-11-16,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,Technology,Phones,TEC-PH-10001254,4,8.2,401.8,41.8
+587,2022-07-16,"Standard Class",Consumer,"United States",Richmond,Kentucky,40475,South,Furniture,Chairs,FUR-CH-10003956,1,2.8,67.2,7.2
+588,2022-07-21,"Standard Class",Consumer,"United States",Richmond,Kentucky,40475,South,"Office Supplies",Labels,OFF-LA-10003930,3,11.6,278.4,8.4
+589,2023-03-03,"Standard Class",Consumer,"United States",Salem,Oregon,97301,West,Technology,Phones,TEC-PH-10003800,2,2.4,77.6,-2.4
+590,2023-04-28,"Standard Class",Consumer,"United States",Salem,Oregon,97301,West,"Office Supplies",Paper,OFF-PA-10002005,4,0.4,19.6,-0.4
+591,2023-07-04,"Standard Class",Consumer,"United States",Salem,Oregon,97301,West,"Office Supplies",Binders,OFF-BI-10002498,3,0.4,19.6,-0.4
+592,2022-01-23,"Standard Class",Consumer,"United States",Salem,Oregon,97301,West,"Office Supplies",Paper,OFF-PA-10004101,2,0.5,9.5,-0.5
+593,2023-05-13,"Standard Class",Consumer,"United States",Laredo,Texas,78041,Central,"Office Supplies",Art,OFF-AR-10004078,2,0.3,9.7,-0.3
+594,2023-12-05,"Standard Class",Consumer,"United States",Laredo,Texas,78041,Central,Technology,Accessories,TEC-AC-10001266,3,0.9,29.1,9.1
+595,2023-06-07,"Standard Class",Consumer,"United States","San Diego",California,92024,West,"Office Supplies",Appliances,OFF-AP-10004708,2,2.4,77.6,7.6
+596,2023-03-26,"Standard Class",Consumer,"United States","San Diego",California,92024,West,Technology,Copiers,TEC-CO-10004115,3,60,1140,40
+597,2022-06-12,"Standard Class",Consumer,"United States","San Diego",California,92024,West,Technology,Phones,TEC-PH-10002398,5,22.5,427.5,37.5
+598,2022-03-23,"Standard Class",Consumer,"United States","San Diego",California,92024,West,Furniture,Furnishings,FUR-FU-10001979,8,6.6,323.4,13.4
+599,2022-01-08,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Supplies,OFF-SU-10004115,2,0.2,9.8,-0.2
+600,2023-04-03,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19120,East,Technology,Phones,TEC-PH-10001425,3,2.8,137.2,17.2
+601,2023-02-19,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19120,East,Technology,Phones,TEC-PH-10003963,4,19.6,470.4,80.4
+602,2023-03-10,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Supplies,OFF-SU-10001574,2,0.4,9.6,-0.4
+603,2022-06-08,"Standard Class",Consumer,"United States",Tampa,Florida,33614,South,"Office Supplies",Storage,OFF-ST-10001490,1,4.2,135.8,15.8
+604,2023-07-19,"Standard Class",Consumer,"United States",Tampa,Florida,33614,South,Furniture,Furnishings,FUR-FU-10001756,3,2.5,47.5,7.5
+605,2022-03-29,"Standard Class",Consumer,"United States",Tampa,Florida,33614,South,"Office Supplies",Binders,OFF-BI-10000773,3,0.5,9.5,-0.5
+606,2023-05-25,"Standard Class",Consumer,"United States",Tampa,Florida,33614,South,"Office Supplies",Binders,OFF-BI-10001543,4,2,38,-2
+607,2023-11-15,"Standard Class",Consumer,"United States",Tampa,Florida,33614,South,"Office Supplies",Paper,OFF-PA-10002120,3,2.6,127.4,7.4
+608,2022-07-04,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Binders,OFF-BI-10000848,2,0,0,0
+609,2022-03-11,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Art,OFF-AR-10001246,9,0.6,19.4,-0.6
+610,2023-02-07,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,Technology,Phones,TEC-PH-10003092,2,3,57,7
+611,2023-02-08,"First Class",Corporate,"United States",Dallas,Texas,75217,Central,Technology,Phones,TEC-PH-10003012,3,11.1,358.9,18.9
+612,2022-09-28,"First Class",Corporate,"United States",Dallas,Texas,75217,Central,"Office Supplies",Labels,OFF-LA-10004345,4,0.6,19.4,-0.6
+613,2022-04-22,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Paper,OFF-PA-10001204,2,0.5,9.5,-0.5
+614,2023-06-29,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19143,East,Technology,Phones,TEC-PH-10004667,9,36.5,693.5,3.5
+615,2022-10-11,"Second Class",Consumer,"United States","Grove City",Ohio,43123,East,Technology,Phones,TEC-PH-10000011,10,3.6,116.4,16.4
+616,2022-06-24,"Second Class",Consumer,"United States","Grove City",Ohio,43123,East,"Office Supplies",Binders,OFF-BI-10002949,2,0,0,0
+617,2022-01-30,"Second Class",Corporate,"United States","New York City","New York",10011,East,Furniture,Furnishings,FUR-FU-10003849,2,1.6,38.4,8.4
+618,2023-03-20,"Second Class",Corporate,"United States","New York City","New York",10011,East,Furniture,Furnishings,FUR-FU-10000010,2,0.4,9.6,-0.4
+619,2023-11-18,"Second Class",Corporate,"United States","New York City","New York",10011,East,"Office Supplies",Binders,OFF-BI-10002824,9,3.3,106.7,6.7
+620,2023-09-23,"Second Class",Corporate,"United States","New York City","New York",10011,East,Technology,Phones,TEC-PH-10002538,1,1.6,38.4,8.4
+621,2022-06-04,"Second Class",Corporate,"United States","New York City","New York",10011,East,Furniture,Furnishings,FUR-FU-10000521,3,1.8,88.2,8.2
+622,2023-01-01,"Standard Class",Consumer,"United States",Chicago,Illinois,60610,Central,"Office Supplies",Binders,OFF-BI-10002103,5,0.3,9.7,-0.3
+623,2022-07-06,"Standard Class",Corporate,"United States",Dearborn,Michigan,48126,Central,Furniture,Chairs,FUR-CH-10004853,2,9,291,21
+624,2023-07-24,"Standard Class",Corporate,"United States",Dearborn,Michigan,48126,Central,"Office Supplies",Appliances,OFF-AP-10000179,5,22.4,537.6,47.6
+625,2022-12-12,"Standard Class",Corporate,"United States",Dearborn,Michigan,48126,Central,"Office Supplies",Storage,OFF-ST-10001272,4,10.4,509.6,69.6
+626,2022-08-27,"Standard Class",Corporate,"United States",Dearborn,Michigan,48126,Central,"Office Supplies",Art,OFF-AR-10004042,9,4.8,155.2,5.2
+627,2022-02-17,"Standard Class","Home Office","United States","New York City","New York",10009,East,Furniture,Furnishings,FUR-FU-10000221,7,1.6,38.4,8.4
+628,2023-01-04,"Standard Class",Consumer,"United States",Seattle,Washington,98115,West,"Office Supplies",Appliances,OFF-AP-10001563,2,3,97,17
+629,2023-04-02,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Binders,OFF-BI-10000605,5,1,19,-1
+630,2022-04-21,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Paper,OFF-PA-10002615,3,0.4,9.6,-0.4
+631,2023-11-17,"Second Class",Consumer,"United States",Aurora,Colorado,80013,West,"Office Supplies",Storage,OFF-ST-10001963,3,4.8,235.2,35.2
+632,2022-10-24,"Second Class",Consumer,"United States",Aurora,Colorado,80013,West,Technology,Accessories,TEC-AC-10001267,5,4.8,115.2,5.2
+633,2022-12-18,"Second Class",Consumer,"United States",Aurora,Colorado,80013,West,Technology,Phones,TEC-PH-10002103,4,15,285,25
+634,2022-08-18,"Second Class",Consumer,"United States",Miami,Florida,33180,South,Technology,Accessories,TEC-AC-10002857,3,0.4,19.6,-0.4
+635,2022-02-17,"Second Class",Consumer,"United States",Miami,Florida,33180,South,"Office Supplies",Labels,OFF-LA-10003930,3,12,228,38
+636,2023-01-21,"Second Class",Corporate,"United States","Warner Robins",Georgia,31088,South,Furniture,Chairs,FUR-CH-10001482,3,7.8,382.2,62.2
+637,2023-02-19,"Standard Class",Consumer,"United States",Aurora,Colorado,80013,West,"Office Supplies",Binders,OFF-BI-10001989,3,1,19,-1
+638,2022-07-08,"Standard Class",Consumer,"United States",Aurora,Colorado,80013,West,"Office Supplies",Appliances,OFF-AP-10003287,3,2.4,117.6,7.6
+639,2023-05-25,"Standard Class","Home Office","United States",Vallejo,California,94591,West,Furniture,Furnishings,FUR-FU-10000576,5,21,1029,29
+640,2022-01-18,"Standard Class","Home Office","United States",Vallejo,California,94591,West,"Office Supplies",Binders,OFF-BI-10004728,4,0.6,19.4,-0.6
+641,2023-02-14,"Standard Class",Corporate,"United States",Minneapolis,Minnesota,55407,Central,Furniture,Furnishings,FUR-FU-10000732,3,0.8,19.2,-0.8
+642,2022-12-15,"Second Class",Consumer,"United States","Mission Viejo",California,92691,West,"Office Supplies",Storage,OFF-ST-10000585,2,16.5,313.5,13.5
+643,2022-01-19,"Second Class",Consumer,"United States","Mission Viejo",California,92691,West,"Office Supplies",Labels,OFF-LA-10002787,7,1.2,28.8,8.8
+644,2022-07-31,"Standard Class",Consumer,"United States","Rochester Hills",Michigan,48307,Central,Technology,Accessories,TEC-AC-10003832,4,5.2,124.8,14.8
+645,2022-03-03,"Standard Class","Home Office","United States",Plainfield,"New Jersey",7060,East,"Office Supplies",Paper,OFF-PA-10001934,1,0.5,9.5,-0.5
+646,2022-08-16,"Standard Class","Home Office","United States",Columbus,Indiana,47201,Central,"Office Supplies",Appliances,OFF-AP-10002457,2,6.3,203.7,13.7
+647,2022-02-03,"Standard Class",Corporate,"United States","Sierra Vista",Arizona,85635,West,"Office Supplies",Fasteners,OFF-FA-10003112,5,0.9,29.1,9.1
+648,2022-11-14,"Standard Class",Corporate,"United States","Sierra Vista",Arizona,85635,West,"Office Supplies",Appliances,OFF-AP-10002350,2,1.2,28.8,-1.2
+649,2022-07-26,"Second Class",Corporate,"United States",Vancouver,Washington,98661,West,Furniture,Furnishings,FUR-FU-10001935,4,0.5,9.5,-0.5
+650,2023-08-29,"Second Class",Corporate,"United States",Vancouver,Washington,98661,West,Technology,Phones,TEC-PH-10003273,3,12,288,18
+651,2022-06-20,"Second Class",Corporate,"United States",Vancouver,Washington,98661,West,Technology,Accessories,TEC-AC-10001142,4,9.6,310.4,20.4
+652,2023-04-28,"Standard Class","Home Office","United States","New York City","New York",10024,East,"Office Supplies",Paper,OFF-PA-10000482,10,15.2,364.8,14.8
+653,2022-06-10,"Standard Class",Corporate,"United States","New York City","New York",10035,East,"Office Supplies",Paper,OFF-PA-10003892,2,4,96,6
+654,2023-02-20,"Standard Class",Corporate,"United States","New York City","New York",10035,East,Technology,Accessories,TEC-AC-10001101,8,5,95,15
+655,2022-07-04,"Standard Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Appliances,OFF-AP-10002439,2,2.2,107.8,17.8
+656,2022-01-06,"Standard Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Binders,OFF-BI-10002827,2,0,0,0
+657,2023-09-24,"Standard Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Envelopes,OFF-EN-10002230,2,3.9,126.1,16.1
+658,2022-05-31,"Same Day","Home Office","United States",Aurora,Illinois,60505,Central,Furniture,Chairs,FUR-CH-10001215,2,14,686,126
+659,2022-07-01,"Same Day","Home Office","United States",Aurora,Illinois,60505,Central,"Office Supplies",Binders,OFF-BI-10004654,2,0,0,0
+660,2023-07-04,"Standard Class",Consumer,"United States",Arlington,Texas,76017,Central,"Office Supplies",Storage,OFF-ST-10001490,7,20,980,90
+661,2023-09-05,"Standard Class",Consumer,"United States",Arlington,Texas,76017,Central,"Office Supplies",Storage,OFF-ST-10001511,14,14.4,705.6,105.6
+662,2023-02-15,"Standard Class",Consumer,"United States",Arlington,Texas,76017,Central,Furniture,Tables,FUR-TA-10001768,5,36.8,883.2,33.2
+663,2022-08-31,"Standard Class",Consumer,"United States",Arlington,Texas,76017,Central,"Office Supplies",Binders,OFF-BI-10003981,3,0,0,0
+664,2022-03-15,"Standard Class",Corporate,"United States","New York City","New York",10011,East,"Office Supplies",Storage,OFF-ST-10001522,5,23,437,37
+665,2023-11-08,"Same Day",Consumer,"United States",Louisville,Kentucky,40214,South,"Office Supplies",Fasteners,OFF-FA-10000621,3,0.2,9.8,-0.2
+666,2023-01-16,"Second Class",Corporate,"United States",Dallas,Texas,75081,Central,"Office Supplies",Supplies,OFF-SU-10004231,3,1,19,-1
+667,2023-07-24,"Second Class",Corporate,"United States",Dallas,Texas,75081,Central,"Office Supplies",Paper,OFF-PA-10000474,3,2.7,87.3,7.3
+668,2022-12-26,"Second Class",Corporate,"United States",Dallas,Texas,75081,Central,Technology,Phones,TEC-PH-10004042,3,19,361,41
+669,2023-01-15,"First Class",Consumer,"United States",Cleveland,Ohio,44105,East,Furniture,Furnishings,FUR-FU-10003096,5,1.5,28.5,8.5
+670,2022-06-05,"Standard Class","Home Office","United States",Chicago,Illinois,60653,Central,Furniture,Furnishings,FUR-FU-10002759,3,0.4,19.6,-0.4
+671,2023-11-04,"Standard Class","Home Office","United States",Chicago,Illinois,60653,Central,Furniture,Tables,FUR-TA-10000688,1,5.5,104.5,4.5
+672,2022-08-08,"Standard Class","Home Office","United States",Chicago,Illinois,60653,Central,"Office Supplies",Paper,OFF-PA-10002377,8,2,38,8
+673,2023-02-18,"Standard Class",Consumer,"United States",Quincy,Illinois,62301,Central,"Office Supplies",Art,OFF-AR-10001954,5,1,19,-1
+674,2023-10-05,"First Class",Consumer,"United States",Columbus,Indiana,47201,Central,"Office Supplies",Appliances,OFF-AP-10004532,3,1.8,58.2,8.2
+675,2023-04-20,"First Class",Consumer,"United States",Columbus,Indiana,47201,Central,"Office Supplies",Paper,OFF-PA-10002137,5,1.6,38.4,-1.6
+676,2023-11-08,"First Class",Consumer,"United States",Columbus,Indiana,47201,Central,Technology,Accessories,TEC-AC-10003832,3,2,98,8
+677,2022-01-05,"Standard Class",Consumer,"United States",Tyler,Texas,75701,Central,"Office Supplies",Appliances,OFF-AP-10000804,3,0,0,0
+678,2023-11-16,"Standard Class",Consumer,"United States",Tyler,Texas,75701,Central,Technology,Accessories,TEC-AC-10003614,3,1.5,28.5,8.5
+679,2023-04-25,"Standard Class",Consumer,"United States",Tyler,Texas,75701,Central,Furniture,Furnishings,FUR-FU-10003553,3,2.4,77.6,7.6
+680,2023-09-05,"Standard Class",Consumer,"United States",Tyler,Texas,75701,Central,"Office Supplies",Binders,OFF-BI-10004632,3,3.6,176.4,16.4
+681,2022-03-27,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Binders,OFF-BI-10003305,3,0.4,9.6,-0.4
+682,2023-05-17,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Storage,OFF-ST-10002583,2,3,57,7
+683,2022-09-23,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Storage,OFF-ST-10004507,4,2.1,67.9,7.9
+684,2023-02-05,"Same Day",Corporate,"United States",Burlington,"North Carolina",27217,South,Technology,Machines,TEC-MA-10004125,4,160,7840,560
+685,2022-02-08,"Same Day",Corporate,"United States",Burlington,"North Carolina",27217,South,"Office Supplies",Appliances,OFF-AP-10002457,2,5.1,164.9,14.9
+686,2023-12-03,"First Class",Consumer,"United States",Jackson,Mississippi,39212,South,Technology,Accessories,TEC-AC-10003911,3,24,456,66
+687,2023-07-15,"First Class",Consumer,"United States",Jackson,Mississippi,39212,South,"Office Supplies",Labels,OFF-LA-10001934,2,0.2,9.8,-0.2
+688,2022-01-07,"First Class",Consumer,"United States",Jackson,Mississippi,39212,South,"Office Supplies",Paper,OFF-PA-10000304,3,0.6,19.4,-0.6
+689,2022-12-27,"Standard Class",Consumer,"United States","New York City","New York",10035,East,Furniture,Bookcases,FUR-BO-10004015,2,5.7,184.3,24.3
+690,2022-02-25,"Second Class",Consumer,"United States",Waynesboro,Virginia,22980,South,Furniture,Furnishings,FUR-FU-10004071,1,5,95,5
+691,2022-04-02,"Second Class",Consumer,"United States",Waynesboro,Virginia,22980,South,Technology,Phones,TEC-PH-10002033,1,5.6,274.4,34.4
+692,2023-07-19,"Second Class",Consumer,"United States",Waynesboro,Virginia,22980,South,"Office Supplies",Storage,OFF-ST-10002444,3,0.8,39.2,-0.8
+693,2022-07-14,"Standard Class",Consumer,"United States","Los Angeles",California,90036,West,Technology,Accessories,TEC-AC-10002253,1,8.5,161.5,21.5
+694,2022-09-29,"Standard Class",Consumer,"United States","Los Angeles",California,90036,West,"Office Supplies",Paper,OFF-PA-10000743,5,0.9,29.1,-0.9
+695,2022-02-18,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Art,OFF-AR-10003373,8,8,192,22
+696,2023-08-22,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Labels,OFF-LA-10002312,4,2,48,8
+697,2023-12-01,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Envelopes,OFF-EN-10000927,7,8,192,12
+698,2022-03-24,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Labels,OFF-LA-10003510,4,3,97,17
+699,2023-01-14,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Art,OFF-AR-10001118,1,0,0,0
+700,2023-05-13,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Binders,OFF-BI-10001575,2,0.6,19.4,-0.6
+701,2022-09-15,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Binders,OFF-BI-10001982,3,0,0,0
+702,2023-01-18,"Standard Class",Corporate,"United States",Cleveland,Ohio,44105,East,Furniture,Furnishings,FUR-FU-10002960,3,0.6,19.4,-0.6
+703,2022-04-27,"Second Class",Corporate,"United States",Seattle,Washington,98103,West,Furniture,Furnishings,FUR-FU-10003394,3,8.4,201.6,11.6
+704,2023-08-29,"Standard Class",Consumer,"United States","Long Beach",California,90805,West,Furniture,Tables,FUR-TA-10002774,3,7.4,362.6,22.6
+705,2022-05-18,"Standard Class",Corporate,"United States",Cary,"North Carolina",27511,South,"Office Supplies",Paper,OFF-PA-10001800,2,0.2,9.8,-0.2
+706,2023-10-14,"Standard Class",Corporate,"United States",Cary,"North Carolina",27511,South,"Office Supplies",Appliances,OFF-AP-10001469,5,5.1,164.9,24.9
+707,2023-02-19,"Standard Class",Corporate,"United States",Cary,"North Carolina",27511,South,Technology,Accessories,TEC-AC-10002399,1,0.6,19.4,-0.6
+708,2022-12-10,"First Class",Consumer,"United States","New York City","New York",10035,East,Technology,Accessories,TEC-AC-10003628,4,4.8,115.2,15.2
+709,2023-04-17,"First Class",Consumer,"United States","New York City","New York",10035,East,Furniture,Bookcases,FUR-BO-10003272,5,44,836,96
+710,2022-11-04,"First Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Binders,OFF-BI-10000050,8,1.5,48.5,8.5
+711,2022-11-30,"First Class","Home Office","United States","New York City","New York",10035,East,"Office Supplies",Paper,OFF-PA-10004071,1,2.4,57.6,7.6
+712,2022-06-06,"Standard Class",Consumer,"United States","Palm Coast",Florida,32137,South,"Office Supplies",Envelopes,OFF-EN-10001219,4,0.8,19.2,-0.8
+713,2023-08-20,"Standard Class",Corporate,"United States","Mount Vernon","New York",10550,East,"Office Supplies",Appliances,OFF-AP-10001154,6,5.6,274.4,34.4
+714,2023-01-14,"Standard Class",Corporate,"United States","Mount Vernon","New York",10550,East,Technology,Phones,TEC-PH-10003012,2,12.4,297.6,7.6
+715,2022-04-21,"Standard Class",Corporate,"United States","Mount Vernon","New York",10550,East,Technology,Accessories,TEC-AC-10001606,3,15,285,25
+716,2022-06-07,"Second Class",Corporate,"United States",Seattle,Washington,98105,West,"Office Supplies",Binders,OFF-BI-10003355,5,0.6,19.4,-0.6
+717,2022-05-25,"First Class",Consumer,"United States",Dover,Delaware,19901,East,Furniture,Furnishings,FUR-FU-10000010,2,0.5,9.5,-0.5
+718,2023-02-01,"Standard Class",Consumer,"United States",Newark,Ohio,43055,East,Furniture,Furnishings,FUR-FU-10002253,3,3,97,7
+719,2022-10-25,"Standard Class","Home Office","United States",Orem,Utah,84057,West,"Office Supplies",Binders,OFF-BI-10001658,3,1.2,58.8,-1.2
+720,2022-07-24,"Standard Class","Home Office","United States",Orem,Utah,84057,West,Furniture,Furnishings,FUR-FU-10000246,6,2.8,67.2,7.2
+721,2022-05-25,"Standard Class","Home Office","United States","Los Angeles",California,90045,West,"Office Supplies",Paper,OFF-PA-10004092,3,7.5,142.5,2.5
+722,2023-08-09,"Standard Class",Corporate,"United States",Detroit,Michigan,48205,Central,Furniture,Tables,FUR-TA-10000198,3,33,1617,247
+723,2023-09-09,"Standard Class",Corporate,"United States",Detroit,Michigan,48205,Central,"Office Supplies",Storage,OFF-ST-10000036,3,15,285,25
+724,2022-10-06,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,FUR-FU-10000222,5,5.2,124.8,4.8
+725,2023-07-20,"Standard Class",Corporate,"United States",Hialeah,Florida,33012,South,"Office Supplies",Supplies,OFF-SU-10004664,7,1,49,9
+726,2022-09-04,"Standard Class",Consumer,"United States",Austin,Texas,78745,Central,"Office Supplies",Envelopes,OFF-EN-10001141,2,0.6,19.4,-0.6
+727,2022-03-29,"Standard Class",Consumer,"United States",Austin,Texas,78745,Central,Technology,Phones,TEC-PH-10002170,1,3,57,7
+728,2022-10-07,"First Class",Consumer,"United States",Oceanside,"New York",11572,East,"Office Supplies",Paper,OFF-PA-10001954,8,5.4,174.6,14.6
+729,2022-07-06,"First Class",Consumer,"United States",Oceanside,"New York",11572,East,Furniture,Tables,FUR-TA-10002228,2,12,388,38
+730,2022-12-27,"First Class",Consumer,"United States",Oceanside,"New York",11572,East,"Office Supplies",Storage,OFF-ST-10004634,3,1.2,28.8,-1.2
+731,2022-02-06,"First Class",Consumer,"United States",Oceanside,"New York",11572,East,Furniture,Chairs,FUR-CH-10002965,3,16.2,523.8,33.8
+732,2023-12-13,"First Class",Consumer,"United States",Oceanside,"New York",11572,East,"Office Supplies",Labels,OFF-LA-10001317,2,0.2,9.8,-0.2
+733,2022-09-08,"Standard Class","Home Office","United States",Seattle,Washington,98115,West,"Office Supplies",Storage,OFF-ST-10000736,3,4.8,235.2,25.2
+734,2022-11-13,"Standard Class","Home Office","United States",Seattle,Washington,98115,West,Technology,Accessories,TEC-AC-10003610,3,9,171,1
+735,2023-02-21,"Standard Class","Home Office","United States",Seattle,Washington,98115,West,"Office Supplies",Binders,OFF-BI-10003982,6,3,97,17
+736,2022-08-13,"Standard Class","Home Office","United States",Seattle,Washington,98115,West,"Office Supplies",Binders,OFF-BI-10003291,4,1.5,28.5,-1.5
+737,2023-06-25,"Standard Class","Home Office","United States",Seattle,Washington,98115,West,Furniture,Bookcases,FUR-BO-10001619,1,2.4,77.6,-2.4
+738,2023-05-18,"Standard Class","Home Office","United States",Seattle,Washington,98115,West,"Office Supplies",Binders,OFF-BI-10000138,5,0.4,19.6,-0.4
+739,2023-01-27,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Technology,Accessories,TEC-AC-10001383,2,1,49,-1
+740,2022-11-21,"Standard Class","Home Office","United States",Naperville,Illinois,60540,Central,"Office Supplies",Labels,OFF-LA-10003223,3,0.3,9.7,-0.3
+741,2022-06-24,"Standard Class","Home Office","United States",Naperville,Illinois,60540,Central,"Office Supplies",Storage,OFF-ST-10002743,3,5.4,264.6,14.6
+742,2022-09-21,"Standard Class","Home Office","United States",Naperville,Illinois,60540,Central,"Office Supplies",Binders,OFF-BI-10004094,2,0,0,0
+743,2022-04-16,"Standard Class",Consumer,"United States",Dallas,Texas,75220,Central,"Office Supplies",Supplies,OFF-SU-10004498,5,2.5,47.5,-2.5
+744,2022-04-26,"Standard Class",Consumer,"United States",Dallas,Texas,75220,Central,"Office Supplies",Paper,OFF-PA-10002615,1,0,0,0
+745,2023-12-08,"Standard Class",Consumer,"United States",Dallas,Texas,75220,Central,"Office Supplies",Paper,OFF-PA-10004971,1,0,0,0
+746,2022-08-23,"Standard Class",Consumer,"United States",Dallas,Texas,75220,Central,"Office Supplies",Supplies,OFF-SU-10004261,4,2.4,57.6,7.6
+747,2022-01-16,"Same Day",Corporate,"United States","San Diego",California,92105,West,Furniture,Tables,FUR-TA-10002607,10,17.1,552.9,72.9
+748,2022-11-14,"Same Day",Corporate,"United States","San Diego",California,92105,West,"Office Supplies",Storage,OFF-ST-10001809,4,14.4,345.6,5.6
+749,2023-02-11,"Second Class",Consumer,"United States",Evanston,Illinois,60201,Central,Technology,Phones,TEC-PH-10000004,1,0.4,9.6,-0.4
+750,2022-11-17,"Standard Class",Consumer,"United States",Trenton,Michigan,48183,Central,"Office Supplies",Binders,OFF-BI-10003638,3,1.8,58.2,8.2
+751,2022-11-27,"Standard Class",Consumer,"United States",Trenton,Michigan,48183,Central,Furniture,Furnishings,FUR-FU-10003577,11,4.8,155.2,25.2
+752,2022-08-05,"Standard Class",Consumer,"United States",Trenton,Michigan,48183,Central,"Office Supplies",Art,OFF-AR-10003478,7,2.4,57.6,-2.4
+753,2023-07-25,"Standard Class",Consumer,"United States",Trenton,Michigan,48183,Central,"Office Supplies",Binders,OFF-BI-10000546,1,0,0,0
+754,2023-10-14,"First Class",Corporate,"United States","San Francisco",California,94110,West,Technology,Copiers,TEC-CO-10002095,3,36,1164,144
+755,2023-05-13,"Standard Class",Consumer,"United States","Los Angeles",California,90036,West,Furniture,Furnishings,FUR-FU-10002759,4,3.2,76.8,6.8
+756,2023-05-02,"Standard Class",Corporate,"United States",Jacksonville,Florida,32216,South,Furniture,Tables,FUR-TA-10001095,4,7.6,372.4,22.4
+757,2022-02-18,"Standard Class",Consumer,"United States","Cottage Grove",Minnesota,55016,Central,"Office Supplies",Storage,OFF-ST-10002444,2,1,19,-1
+758,2023-06-24,"Standard Class",Consumer,"United States","Cottage Grove",Minnesota,55016,Central,Technology,Accessories,TEC-AC-10001267,4,4.8,115.2,15.2
+759,2022-06-15,"Standard Class",Corporate,"United States","New York City","New York",10009,East,"Office Supplies",Binders,OFF-BI-10000848,3,0.2,9.8,-0.2
+760,2022-10-28,"Standard Class",Corporate,"United States","Green Bay",Wisconsin,54302,Central,"Office Supplies",Paper,OFF-PA-10002377,4,0.8,19.2,-0.8
+761,2023-07-20,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,"Office Supplies",Paper,OFF-PA-10003441,9,3,57,-3
+762,2023-10-04,"Standard Class",Corporate,"United States",Atlanta,Georgia,30318,South,"Office Supplies",Labels,OFF-LA-10004484,3,0.5,9.5,-0.5
+763,2023-11-01,"Standard Class",Consumer,"United States",Columbus,Ohio,43229,East,Technology,Phones,TEC-PH-10003931,3,3.3,106.7,16.7
+764,2023-09-27,"Second Class",Corporate,"United States","Bossier City",Louisiana,71111,South,"Office Supplies",Envelopes,OFF-EN-10001990,2,0.2,9.8,-0.2
+765,2023-08-11,"Second Class",Corporate,"United States","Bossier City",Louisiana,71111,South,"Office Supplies",Envelopes,OFF-EN-10001532,3,2.5,47.5,-2.5
+766,2023-05-05,"Second Class",Corporate,"United States","Bossier City",Louisiana,71111,South,Technology,Accessories,TEC-AC-10003174,6,32.5,617.5,87.5
+767,2023-05-06,"Second Class",Corporate,"United States","Bossier City",Louisiana,71111,South,"Office Supplies",Binders,OFF-BI-10004187,3,0.3,9.7,-0.3
+768,2022-08-10,"Second Class",Corporate,"United States","Bossier City",Louisiana,71111,South,"Office Supplies",Storage,OFF-ST-10000025,6,17.1,552.9,12.9
+769,2023-09-24,"Standard Class",Corporate,"United States","Saint Petersburg",Florida,33710,South,Furniture,Furnishings,FUR-FU-10004306,2,12.4,297.6,17.6
+770,2022-08-26,"Standard Class",Consumer,"United States",Arlington,Virginia,22204,South,Furniture,Chairs,FUR-CH-10003746,2,12.8,627.2,57.2
+771,2022-01-24,"Standard Class",Corporate,"United States","Des Moines",Iowa,50315,Central,"Office Supplies",Binders,OFF-BI-10001036,2,0.8,19.2,-0.8
+772,2022-08-13,"Standard Class",Corporate,"United States","Des Moines",Iowa,50315,Central,Technology,Phones,TEC-PH-10004614,3,4.2,205.8,35.8
+773,2022-03-13,"Standard Class",Corporate,"United States","Des Moines",Iowa,50315,Central,"Office Supplies",Binders,OFF-BI-10000301,5,1.5,28.5,-1.5
+774,2023-03-09,"Standard Class",Corporate,"United States","Des Moines",Iowa,50315,Central,"Office Supplies",Binders,OFF-BI-10003910,1,0.3,9.7,-0.3
+775,2023-03-30,"Standard Class",Corporate,"United States","Des Moines",Iowa,50315,Central,"Office Supplies",Art,OFF-AR-10004648,2,1.6,38.4,-1.6
+776,2022-12-19,"Standard Class",Corporate,"United States","Des Moines",Iowa,50315,Central,Furniture,Furnishings,FUR-FU-10002597,7,0.6,29.4,-0.6
+777,2022-02-14,"Standard Class",Consumer,"United States",Cincinnati,Ohio,45231,East,"Office Supplies",Art,OFF-AR-10003405,7,1.2,28.8,-1.2
+778,2022-07-06,"First Class","Home Office","United States","San Francisco",California,94110,West,Furniture,Chairs,FUR-CH-10002335,3,10.8,529.2,89.2
+779,2022-05-21,"First Class","Home Office","United States","San Francisco",California,94110,West,"Office Supplies",Paper,OFF-PA-10000157,3,3,57,7
+780,2023-03-05,"First Class","Home Office","United States","San Francisco",California,94110,West,"Office Supplies",Paper,OFF-PA-10001947,4,0.8,19.2,-0.8
+781,2023-07-05,"First Class","Home Office","United States","San Francisco",California,94110,West,"Office Supplies",Paper,OFF-PA-10003657,1,0,0,0
+782,2023-02-27,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Binders,OFF-BI-10001098,5,1.5,28.5,8.5
+783,2022-02-03,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,Technology,Accessories,TEC-AC-10002167,2,0.8,19.2,-0.8
+784,2022-04-28,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,Furniture,Bookcases,FUR-BO-10004409,1,2,38,-2
+785,2023-11-09,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,Technology,Accessories,TEC-AC-10000057,2,1.5,48.5,-1.5
+786,2022-04-05,"Standard Class",Corporate,"United States",Columbia,"South Carolina",29203,South,"Office Supplies",Envelopes,OFF-EN-10000056,3,7.6,182.4,22.4
+787,2023-04-01,"Second Class",Consumer,"United States",Lancaster,California,93534,West,"Office Supplies",Binders,OFF-BI-10000014,2,0.4,19.6,-0.4
+788,2023-06-07,"Standard Class",Consumer,"United States",Lancaster,California,93534,West,Furniture,Chairs,FUR-CH-10004675,2,10.5,339.5,49.5
+789,2023-02-12,"Standard Class",Consumer,"United States",Richmond,Virginia,23223,South,"Office Supplies",Binders,OFF-BI-10001543,4,5.6,134.4,24.4
+790,2022-07-25,"Standard Class",Consumer,"United States",Richmond,Virginia,23223,South,"Office Supplies",Storage,OFF-ST-10001321,1,0.6,19.4,-0.6
+791,2023-04-07,"Standard Class",Consumer,"United States",Richmond,Virginia,23223,South,"Office Supplies",Binders,OFF-BI-10001132,8,1.6,38.4,8.4
+792,2022-04-09,"Standard Class",Consumer,"United States",Richmond,Virginia,23223,South,Furniture,Chairs,FUR-CH-10003199,3,6.6,323.4,43.4
+793,2022-05-14,"Same Day",Consumer,"United States",Asheville,"North Carolina",28806,South,Technology,Phones,TEC-PH-10001530,5,68,1292,122
+794,2023-11-27,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Labels,OFF-LA-10001569,2,0.2,9.8,-0.2
+795,2023-03-11,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,OFF-PA-10003724,4,0.8,19.2,-0.8
+796,2023-06-18,"Standard Class",Consumer,"United States",Rochester,Minnesota,55901,Central,"Office Supplies",Binders,OFF-BI-10000546,7,0.8,19.2,-0.8
+797,2023-02-15,"First Class",Corporate,"United States",Rochester,"New York",14609,East,"Office Supplies",Paper,OFF-PA-10000176,7,2.6,127.4,17.4
+798,2023-04-14,"First Class",Corporate,"United States",Rochester,"New York",14609,East,"Office Supplies",Paper,OFF-PA-10002365,2,0.4,9.6,-0.4
+799,2022-11-06,"First Class",Corporate,"United States",Rochester,"New York",14609,East,"Office Supplies",Labels,OFF-LA-10002271,7,0.4,19.6,-0.4
+800,2023-11-26,"Standard Class",Consumer,"United States","Lake Elsinore",California,92530,West,Furniture,Chairs,FUR-CH-10002647,5,8.4,271.6,11.6
+801,2023-05-24,"First Class",Corporate,"United States","San Diego",California,92105,West,Furniture,Furnishings,FUR-FU-10004090,1,1,19,-1
+802,2023-12-25,"First Class",Corporate,"United States","San Diego",California,92105,West,Technology,Phones,TEC-PH-10001580,2,8.8,211.2,1.2
+803,2023-09-23,"Second Class",Corporate,"United States","New York City","New York",10024,East,"Office Supplies",Appliances,OFF-AP-10000576,9,14.4,345.6,25.6
+804,2022-10-11,"Standard Class",Corporate,"United States",Monroe,Louisiana,71203,South,"Office Supplies",Paper,OFF-PA-10003953,2,0.3,9.7,-0.3
+805,2022-02-23,"First Class",Consumer,"United States","San Francisco",California,94122,West,Furniture,Furnishings,FUR-FU-10000794,2,1,19,-1
+806,2022-10-17,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,"Office Supplies",Art,OFF-AR-10001897,3,1.6,38.4,-1.6
+807,2023-04-07,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,Technology,Phones,TEC-PH-10001795,4,79.2,1900.8,200.8
+808,2023-05-26,"First Class",Consumer,"United States",Omaha,Nebraska,68104,Central,Furniture,Furnishings,FUR-FU-10003347,2,1.5,28.5,-1.5
+809,2023-07-01,"First Class",Consumer,"United States",Omaha,Nebraska,68104,Central,Technology,Accessories,TEC-AC-10004901,3,6,144,14
+810,2023-01-27,"First Class",Consumer,"United States",Edmonds,Washington,98026,West,"Office Supplies",Art,OFF-AR-10003190,4,0.4,9.6,-0.4
+811,2022-04-30,"First Class",Consumer,"United States",Edmonds,Washington,98026,West,Furniture,Tables,FUR-TA-10002903,5,65,1235,145
+812,2022-04-04,"First Class",Consumer,"United States",Edmonds,Washington,98026,West,"Office Supplies",Appliances,OFF-AP-10000240,4,10.5,199.5,9.5
+813,2023-07-28,"First Class",Consumer,"United States",Edmonds,Washington,98026,West,Technology,Accessories,TEC-AC-10001101,2,1.5,28.5,8.5
+814,2023-12-22,"Same Day",Consumer,"United States","Santa Ana",California,92704,West,Furniture,Furnishings,FUR-FU-10000794,2,0.4,19.6,-0.4
+815,2023-10-13,"Same Day",Consumer,"United States","Santa Ana",California,92704,West,Technology,Accessories,TEC-AC-10001838,7,70,1330,60
+816,2022-09-12,"First Class",Corporate,"United States",Milwaukee,Wisconsin,53209,Central,"Office Supplies",Paper,OFF-PA-10000061,8,2,48,-2
+817,2022-04-15,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Paper,OFF-PA-10003651,1,0.5,9.5,-0.5
+818,2023-02-23,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Paper,OFF-PA-10000304,8,1.2,38.8,8.8
+819,2022-06-29,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Binders,OFF-BI-10003094,3,0,0,0
+820,2023-11-09,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,FUR-CH-10001394,5,61.5,1168.5,138.5
+821,2022-11-18,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Binders,OFF-BI-10004230,3,0.6,29.4,-0.6
+822,2023-07-06,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Paper,OFF-PA-10003395,4,13.6,326.4,36.4
+823,2022-10-13,"Standard Class",Consumer,"United States",Belleville,"New Jersey",7109,East,Technology,Accessories,TEC-AC-10002402,3,4.8,235.2,25.2
+824,2023-08-31,"Standard Class",Consumer,"United States",Belleville,"New Jersey",7109,East,"Office Supplies",Labels,OFF-LA-10003223,2,0.3,9.7,-0.3
+825,2022-04-08,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Technology,Accessories,TEC-AC-10003441,4,2.8,67.2,7.2
+826,2023-11-23,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Technology,Accessories,TEC-AC-10000109,3,6.8,163.2,3.2
+827,2023-06-21,"Standard Class",Consumer,"United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Fasteners,OFF-FA-10002280,7,0.8,39.2,-0.8
+828,2023-10-24,"Standard Class",Consumer,"United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Supplies,OFF-SU-10000381,4,1.6,38.4,8.4
+829,2023-12-23,"Standard Class",Consumer,"United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Envelopes,OFF-EN-10004459,2,0.6,19.4,-0.6
+830,2022-04-23,"Second Class",Consumer,"United States",Florence,Kentucky,41042,South,Furniture,Chairs,FUR-CH-10000665,2,12,288,38
+831,2022-12-12,"Second Class",Consumer,"United States",Florence,Kentucky,41042,South,"Office Supplies",Appliances,OFF-AP-10003884,3,7.2,172.8,22.8
+832,2023-05-30,"Second Class",Consumer,"United States",Florence,Kentucky,41042,South,Technology,Phones,TEC-PH-10001557,2,7.6,182.4,2.4
+833,2023-03-21,"Second Class",Consumer,"United States",Florence,Kentucky,41042,South,Technology,Phones,TEC-PH-10002085,1,3.5,66.5,6.5
+834,2022-11-18,"Standard Class",Corporate,"United States",Tampa,Florida,33614,South,"Office Supplies",Art,OFF-AR-10002956,2,0.8,39.2,9.2
+835,2023-07-30,"Standard Class",Corporate,"United States",Tampa,Florida,33614,South,"Office Supplies",Appliances,OFF-AP-10003266,2,0.8,19.2,-0.8
+836,2022-08-01,"Standard Class",Corporate,"United States",Tampa,Florida,33614,South,Technology,Machines,TEC-MA-10004002,1,8.1,261.9,41.9
+837,2023-04-25,"Second Class",Consumer,"United States",Tyler,Texas,75701,Central,"Office Supplies",Binders,OFF-BI-10001071,4,1,49,9
+838,2023-10-29,"Standard Class","Home Office","United States",Columbia,Tennessee,38401,South,"Office Supplies",Paper,OFF-PA-10001560,2,0.2,9.8,-0.2
+839,2022-11-08,"Standard Class",Corporate,"United States","Fort Worth",Texas,76106,Central,Technology,Phones,TEC-PH-10002365,3,0.8,19.2,-0.8
+840,2023-03-10,"Standard Class",Corporate,"United States","New York City","New York",10035,East,"Office Supplies",Art,OFF-AR-10004648,3,1.8,58.2,8.2
+841,2023-06-29,"Standard Class",Corporate,"United States","New York City","New York",10035,East,"Office Supplies",Art,OFF-AR-10002578,4,0.5,9.5,-0.5
+842,2022-12-26,"Standard Class",Corporate,"United States","New York City","New York",10035,East,Furniture,Bookcases,FUR-BO-10001519,4,3.8,186.2,16.2
+843,2023-12-22,"First Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Binders,OFF-BI-10001294,4,2,38,8
+844,2023-05-01,"First Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Binders,OFF-BI-10001636,4,0.6,29.4,-0.6
+845,2022-03-07,"First Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Supplies,OFF-SU-10002503,2,0.5,9.5,-0.5
+846,2023-06-20,"First Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Labels,OFF-LA-10004093,2,0.5,9.5,-0.5
+847,2022-02-10,"Standard Class",Consumer,"United States",Louisville,Kentucky,40214,South,Technology,Phones,TEC-PH-10001552,7,2.4,77.6,7.6
+848,2023-12-21,"Standard Class",Consumer,"United States",Louisville,Kentucky,40214,South,Furniture,Chairs,FUR-CH-10001891,3,8.7,281.3,51.3
+849,2023-06-21,"Standard Class",Consumer,"United States",Lorain,Ohio,44052,East,Furniture,Furnishings,FUR-FU-10003878,4,1,49,9
+850,2023-04-22,"Standard Class",Corporate,"United States",Linden,"New Jersey",7036,East,Technology,Accessories,TEC-AC-10000710,7,3.6,116.4,6.4
+851,2022-04-30,"Second Class",Corporate,"United States",Salinas,California,93905,West,"Office Supplies",Art,OFF-AR-10002335,2,0.2,9.8,-0.2
+852,2022-02-10,"Second Class",Corporate,"United States",Salinas,California,93905,West,"Office Supplies",Paper,OFF-PA-10001870,6,2,38,8
+853,2022-03-28,"Standard Class",Consumer,"United States",Jackson,Mississippi,39212,South,"Office Supplies",Art,OFF-AR-10003373,6,3.8,186.2,26.2
+854,2023-12-11,"Standard Class",Consumer,"United States","New York City","New York",10035,East,Furniture,Furnishings,FUR-FU-10004090,2,1.6,38.4,8.4
+855,2023-01-20,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Storage,OFF-ST-10000736,3,4.8,235.2,45.2
+856,2023-08-27,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Paper,OFF-PA-10001019,2,2,38,8
+857,2022-07-05,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Supplies,OFF-SU-10002537,10,2,98,8
+858,2023-03-22,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Storage,OFF-ST-10003221,2,0.8,19.2,-0.8
+859,2022-08-27,"Standard Class","Home Office","United States","New Brunswick","New Jersey",8901,East,"Office Supplies",Paper,OFF-PA-10004569,1,0.4,9.6,-0.4
+860,2023-06-05,"Standard Class","Home Office","United States","New Brunswick","New Jersey",8901,East,"Office Supplies",Fasteners,OFF-FA-10000624,2,0.3,9.7,-0.3
+861,2022-07-02,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Supplies,OFF-SU-10001225,2,0.4,9.6,-0.4
+862,2022-04-06,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Art,OFF-AR-10003752,2,0.8,19.2,-0.8
+863,2023-07-26,"Second Class",Corporate,"United States",Jacksonville,Florida,32216,South,Technology,Accessories,TEC-AC-10001714,6,3.8,186.2,16.2
+864,2022-11-02,"Second Class",Corporate,"United States",Jacksonville,Florida,32216,South,"Office Supplies",Art,OFF-AR-10003958,2,0.4,9.6,-0.4
+865,2022-01-30,"Second Class",Corporate,"United States",Jacksonville,Florida,32216,South,Technology,Phones,TEC-PH-10002923,2,1.2,58.8,8.8
+866,2022-04-01,"Standard Class",Corporate,"United States",Springfield,Virginia,22153,South,"Office Supplies",Labels,OFF-LA-10004272,1,0,0,0
+867,2023-09-06,"Standard Class",Corporate,"United States",Springfield,Virginia,22153,South,Furniture,Furnishings,FUR-FU-10000965,1,2,48,8
+868,2022-12-28,"First Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Labels,OFF-LA-10004853,4,1,19,-1
+869,2023-04-27,"Standard Class",Corporate,"United States",Lancaster,Pennsylvania,17602,East,"Office Supplies",Binders,OFF-BI-10003719,6,0.8,39.2,9.2
+870,2023-05-12,"First Class","Home Office","United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Binders,OFF-BI-10000545,5,22.8,1117.2,207.2
+871,2022-02-28,"First Class","Home Office","United States",Philadelphia,Pennsylvania,19143,East,Technology,Phones,TEC-PH-10002496,3,14,266,6
+872,2022-07-11,"First Class",Consumer,"United States",Concord,"New Hampshire",3301,East,"Office Supplies",Paper,OFF-PA-10003591,3,0.9,29.1,-0.9
+873,2022-06-01,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Paper,OFF-PA-10004470,2,0.2,9.8,-0.2
+874,2022-03-21,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Binders,OFF-BI-10000315,7,5.5,104.5,4.5
+875,2022-02-07,"Standard Class",Consumer,"United States",Charlotte,"North Carolina",28205,South,"Office Supplies",Paper,OFF-PA-10001790,5,7.6,182.4,22.4
+876,2023-04-04,"Standard Class","Home Office","United States",Concord,"New Hampshire",3301,East,Furniture,Furnishings,FUR-FU-10004017,3,6.4,313.6,33.6
+877,2023-03-23,"Standard Class","Home Office","United States",Concord,"New Hampshire",3301,East,Technology,Accessories,TEC-AC-10003628,1,0.9,29.1,-0.9
+878,2023-06-13,"Standard Class","Home Office","United States",Concord,"New Hampshire",3301,East,Technology,Accessories,TEC-AC-10002049,3,14.8,355.2,25.2
+879,2022-12-18,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Binders,OFF-BI-10003712,4,0.2,9.8,-0.2
+880,2022-06-30,"Second Class","Home Office","United States","New York City","New York",10024,East,"Office Supplies",Binders,OFF-BI-10003984,3,2.1,67.9,7.9
+881,2022-11-30,"Second Class","Home Office","United States","New York City","New York",10024,East,Furniture,Chairs,FUR-CH-10004287,5,24.8,1215.2,45.2
+882,2023-07-11,"Standard Class",Consumer,"United States",Springfield,Virginia,22153,South,"Office Supplies",Storage,OFF-ST-10001321,2,0.6,29.4,-0.6
+883,2022-05-10,"Same Day",Consumer,"United States","San Francisco",California,94109,West,"Office Supplies",Art,OFF-AR-10001118,4,0.4,9.6,-0.4
+884,2022-06-03,"First Class","Home Office","United States",Detroit,Michigan,48227,Central,Furniture,Furnishings,FUR-FU-10000732,5,0.6,29.4,9.4
+885,2022-11-18,"Standard Class",Consumer,"United States",Rochester,"New York",14609,East,Furniture,Furnishings,FUR-FU-10001424,2,1,19,-1
+886,2022-07-18,"Second Class",Corporate,"United States","Los Angeles",California,90045,West,"Office Supplies",Binders,OFF-BI-10002071,3,0.4,9.6,-0.4
+887,2023-02-07,"Standard Class",Consumer,"United States","San Diego",California,92105,West,"Office Supplies",Storage,OFF-ST-10002486,12,4,76,6
+888,2022-07-16,"Standard Class","Home Office","United States",Columbia,Maryland,21044,East,"Office Supplies",Binders,OFF-BI-10001078,7,2,38,8
+889,2023-10-12,"Standard Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Paper,OFF-PA-10003845,6,0.6,29.4,-0.6
+890,2022-01-11,"Standard Class",Consumer,"United States","New Rochelle","New York",10801,East,Technology,Accessories,TEC-AC-10000927,5,4.5,145.5,15.5
+891,2022-02-10,"Standard Class",Consumer,"United States","New Rochelle","New York",10801,East,"Office Supplies",Binders,OFF-BI-10001098,3,2,48,8
+892,2022-05-03,"First Class","Home Office","United States",Detroit,Michigan,48227,Central,"Office Supplies",Paper,OFF-PA-10001622,1,0,0,0
+893,2023-04-07,"First Class","Home Office","United States",Detroit,Michigan,48227,Central,"Office Supplies",Art,OFF-AR-10003158,4,0.4,19.6,-0.4
+894,2023-02-07,"First Class","Home Office","United States",Detroit,Michigan,48227,Central,Technology,Phones,TEC-PH-10002660,8,10.8,529.2,19.2
+895,2022-12-05,"First Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Storage,OFF-ST-10002205,7,4.8,155.2,25.2
+896,2022-05-13,"First Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Binders,OFF-BI-10003364,3,1.4,68.6,8.6
+897,2023-11-20,"Second Class",Consumer,"United States",Houston,Texas,77095,Central,"Office Supplies",Envelopes,OFF-EN-10001099,2,0.6,19.4,-0.6
+898,2022-10-17,"Standard Class",Consumer,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Labels,OFF-LA-10003923,7,2,98,8
+899,2023-02-06,"Second Class",Corporate,"United States",Auburn,"New York",13021,East,"Office Supplies",Paper,OFF-PA-10002250,8,1.5,48.5,-1.5
+900,2022-10-20,"First Class",Corporate,"United States",Springfield,Ohio,45503,East,"Office Supplies",Binders,OFF-BI-10004716,2,0.3,9.7,-0.3
+901,2023-05-20,"First Class",Consumer,"United States",Garland,Texas,75043,Central,"Office Supplies",Labels,OFF-LA-10001045,5,0.5,9.5,-0.5
+902,2023-09-09,"First Class",Consumer,"United States",Garland,Texas,75043,Central,"Office Supplies",Binders,OFF-BI-10001510,4,0.6,19.4,-0.6
+903,2022-06-28,"First Class",Consumer,"United States",Chicago,Illinois,60653,Central,Technology,Phones,TEC-PH-10004536,3,6.4,313.6,53.6
+904,2023-12-01,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Paper,OFF-PA-10002947,3,0.4,19.6,-0.4
+905,2022-05-25,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Storage,OFF-ST-10002583,2,1.2,58.8,8.8
+906,2022-04-23,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Paper,OFF-PA-10000019,2,0.2,9.8,-0.2
+907,2023-11-26,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Furniture,Bookcases,FUR-BO-10003441,4,12.8,307.2,27.2
+908,2022-07-25,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Technology,Phones,TEC-PH-10004774,7,3.6,86.4,16.4
+909,2023-07-06,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Binders,OFF-BI-10003684,3,1.5,48.5,8.5
+910,2023-03-30,"Standard Class","Home Office","United States",Jackson,Michigan,49201,Central,Technology,Phones,TEC-PH-10001494,4,36,1164,154
+911,2023-12-31,"Standard Class","Home Office","United States",Jackson,Michigan,49201,Central,Technology,Accessories,TEC-AC-10004666,7,77.2,1852.8,22.8
+912,2022-06-08,"Standard Class","Home Office","United States",Jackson,Michigan,49201,Central,"Office Supplies",Storage,OFF-ST-10003816,2,10.5,339.5,19.5
+913,2023-06-21,"Standard Class","Home Office","United States",Norwich,Connecticut,6360,East,Furniture,Furnishings,FUR-FU-10001935,6,1,19,-1
+914,2023-05-09,"First Class",Corporate,"United States",Milwaukee,Wisconsin,53209,Central,Furniture,Furnishings,FUR-FU-10004091,1,2.5,47.5,7.5
+915,2023-05-29,"First Class",Corporate,"United States",Milwaukee,Wisconsin,53209,Central,Technology,Accessories,TEC-AC-10001772,9,5.6,134.4,4.4
+916,2023-03-03,"Standard Class",Corporate,"United States","San Antonio",Texas,78207,Central,Furniture,Tables,FUR-TA-10001520,2,4,96,6
+917,2023-05-17,"Standard Class",Corporate,"United States","San Antonio",Texas,78207,Central,Furniture,Chairs,FUR-CH-10003379,4,40,760,80
+918,2022-12-18,"Standard Class",Corporate,"United States","San Antonio",Texas,78207,Central,"Office Supplies",Binders,OFF-BI-10002706,3,0.2,9.8,-0.2
+919,2022-06-28,"Standard Class",Corporate,"United States",Dallas,Texas,75220,Central,"Office Supplies",Envelopes,OFF-EN-10000056,3,6,144,14
+920,2022-03-13,"Standard Class",Corporate,"United States",Dallas,Texas,75220,Central,"Office Supplies",Storage,OFF-ST-10001558,1,0.5,9.5,-0.5
+921,2022-12-18,"Standard Class",Consumer,"United States",Alexandria,Virginia,22304,South,"Office Supplies",Storage,OFF-ST-10002444,2,0.8,19.2,-0.8
+922,2022-12-07,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Technology,Accessories,TEC-AC-10002473,3,4.5,85.5,5.5
+923,2022-03-17,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Technology,Phones,TEC-PH-10004531,1,0.4,19.6,-0.4
+924,2023-03-13,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Appliances,OFF-AP-10004487,5,16.4,393.6,53.6
+925,2022-08-04,"Standard Class",Corporate,"United States","New York City","New York",10011,East,"Office Supplies",Binders,OFF-BI-10003650,2,25.2,814.8,94.8
+926,2022-05-23,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Paper,OFF-PA-10003543,3,0.6,19.4,-0.6
+927,2023-01-23,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,Technology,Accessories,TEC-AC-10004353,5,7.5,242.5,32.5
+928,2022-05-23,"Standard Class","Home Office","United States",Springfield,Virginia,22153,South,"Office Supplies",Art,OFF-AR-10000658,4,1.5,48.5,8.5
+929,2022-02-22,"Standard Class","Home Office","United States",Springfield,Virginia,22153,South,"Office Supplies",Appliances,OFF-AP-10000696,2,1.5,28.5,8.5
+930,2022-02-23,"First Class",Consumer,"United States",Toledo,Ohio,43615,East,"Office Supplies",Art,OFF-AR-10003560,3,0.3,9.7,-0.3
+931,2022-08-08,"First Class",Consumer,"United States",Toledo,Ohio,43615,East,"Office Supplies",Art,OFF-AR-10001468,3,1.8,88.2,-1.8
+932,2022-06-27,"First Class",Consumer,"United States",Toledo,Ohio,43615,East,"Office Supplies",Paper,OFF-PA-10004971,3,0.2,9.8,-0.2
+933,2022-09-04,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Paper,OFF-PA-10002195,3,0.4,9.6,-0.4
+934,2023-09-09,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Paper,OFF-PA-10001745,8,2,48,8
+935,2022-07-18,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Binders,OFF-BI-10004826,6,0.9,29.1,9.1
+936,2022-05-12,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Paper,OFF-PA-10001870,3,0.6,19.4,-0.6
+937,2023-12-13,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Appliances,OFF-AP-10001058,2,13.5,436.5,26.5
+938,2022-10-11,"First Class",Corporate,"United States",Farmington,"New Mexico",87401,West,Technology,Accessories,TEC-AC-10003911,1,4.8,155.2,15.2
+939,2023-05-31,"Standard Class",Corporate,"United States",Riverside,California,92503,West,"Office Supplies",Paper,OFF-PA-10000289,2,0.4,9.6,-0.4
+940,2022-12-18,"Standard Class",Corporate,"United States",Riverside,California,92503,West,"Office Supplies",Appliances,OFF-AP-10003040,4,3.9,126.1,6.1
+941,2023-07-11,"First Class",Corporate,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,OFF-PA-10000350,2,0.6,19.4,-0.6
+942,2023-02-15,"Standard Class",Corporate,"United States",Torrance,California,90503,West,"Office Supplies",Binders,OFF-BI-10001759,2,0.4,9.6,-0.4
+943,2023-04-06,"Standard Class",Corporate,"United States",Torrance,California,90503,West,Furniture,Tables,FUR-TA-10000577,4,55.5,1054.5,154.5
+944,2023-12-25,"Standard Class",Consumer,"United States",Seattle,Washington,98105,West,"Office Supplies",Paper,OFF-PA-10004101,5,1.2,28.8,-1.2
+945,2023-07-14,"Standard Class",Consumer,"United States",Seattle,Washington,98105,West,"Office Supplies",Storage,OFF-ST-10001496,3,27,513,13
+946,2022-03-03,"Standard Class",Consumer,"United States",Seattle,Washington,98105,West,"Office Supplies",Binders,OFF-BI-10002931,5,6.8,163.2,13.2
+947,2023-04-20,"First Class",Consumer,"United States",Mesa,Arizona,85204,West,Furniture,Tables,FUR-TA-10002356,3,11.7,378.3,58.3
+948,2022-06-09,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,FUR-FU-10003601,7,26,494,74
+949,2022-06-15,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,FUR-FU-10000576,6,20.2,989.8,179.8
+950,2022-07-09,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,Furniture,Tables,FUR-TA-10004154,12,103.5,1966.5,16.5
+951,2022-03-19,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Paper,OFF-PA-10000788,3,0.6,19.4,-0.6
+952,2022-05-14,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Paper,OFF-PA-10002479,6,0.6,29.4,9.4
+953,2023-04-23,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,FUR-FU-10001940,4,0.9,29.1,-0.9
+954,2022-08-03,"Standard Class",Consumer,"United States","Round Rock",Texas,78664,Central,"Office Supplies",Art,OFF-AR-10001958,2,0.6,29.4,-0.6
+955,2023-11-15,"Standard Class",Consumer,"United States","Round Rock",Texas,78664,Central,Furniture,Bookcases,FUR-BO-10004709,2,4,76,6
+956,2022-02-07,"Standard Class",Consumer,"United States",Jackson,Mississippi,39212,South,"Office Supplies",Storage,OFF-ST-10000604,5,6.8,163.2,3.2
+957,2022-08-20,"Second Class",Consumer,"United States",Phoenix,Arizona,85023,West,Technology,Phones,TEC-PH-10002923,1,1.2,28.8,-1.2
+958,2022-06-29,"Second Class",Consumer,"United States",Phoenix,Arizona,85023,West,"Office Supplies",Binders,OFF-BI-10004465,2,0,0,0
+959,2022-10-23,"Second Class",Consumer,"United States",Phoenix,Arizona,85023,West,"Office Supplies",Paper,OFF-PA-10002333,3,0.4,19.6,-0.4
+960,2022-05-15,"Same Day",Consumer,"United States",Oceanside,California,92054,West,Furniture,Furnishings,FUR-FU-10004188,2,8,192,2
+961,2023-09-04,"Standard Class",Corporate,"United States","San Francisco",California,94110,West,Furniture,Chairs,FUR-CH-10002965,2,6.4,313.6,53.6
+962,2023-10-23,"Standard Class","Home Office","United States",Fayetteville,Arkansas,72701,South,"Office Supplies",Binders,OFF-BI-10000145,2,0.2,9.8,-0.2
+963,2023-08-16,"First Class",Corporate,"United States","San Francisco",California,94110,West,"Office Supplies",Envelopes,OFF-EN-10001335,2,1,19,-1
+964,2022-09-13,"Second Class",Consumer,"United States","Boca Raton",Florida,33433,South,"Office Supplies",Labels,OFF-LA-10001613,2,0,0,0
+965,2022-04-30,"First Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Labels,OFF-LA-10004055,2,0.3,9.7,-0.3
+966,2022-05-06,"First Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Art,OFF-AR-10004344,3,2,38,-2
+967,2023-07-11,"First Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Paper,OFF-PA-10004621,2,0.3,9.7,-0.3
+968,2023-07-05,"First Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Paper,OFF-PA-10001281,4,7.6,182.4,2.4
+969,2023-03-19,"First Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Labels,OFF-LA-10001613,3,0.5,9.5,-0.5
+970,2022-10-25,"First Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Storage,OFF-ST-10001097,3,25,475,55
+971,2023-12-15,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,FUR-FU-10001095,6,5.2,124.8,14.8
+972,2022-05-29,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,Technology,Phones,TEC-PH-10004614,3,4.8,115.2,5.2
+973,2022-06-15,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Binders,OFF-BI-10001575,2,0.8,19.2,-0.8
+974,2023-05-17,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Labels,OFF-LA-10001074,3,1.5,28.5,8.5
+975,2022-06-26,"Second Class","Home Office","United States","New York City","New York",10011,East,Technology,Phones,TEC-PH-10003555,7,6.4,153.6,3.6
+976,2023-11-01,"Second Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Binders,OFF-BI-10004492,3,4,76,6
+977,2023-02-03,"Standard Class",Consumer,"United States",Portland,Oregon,97206,West,"Office Supplies",Binders,OFF-BI-10002012,2,0,0,0
+978,2023-04-16,"First Class",Corporate,"United States",Detroit,Michigan,48205,Central,Technology,Machines,TEC-MA-10000822,2,91.8,2968.2,118.2
+979,2023-11-15,"First Class",Consumer,"United States",Wilmington,"North Carolina",28403,South,"Office Supplies",Binders,OFF-BI-10000848,2,0,0,0
+980,2023-07-27,"First Class",Corporate,"United States",Columbus,Indiana,47201,Central,"Office Supplies",Paper,OFF-PA-10004156,3,0.6,29.4,-0.6
+981,2022-04-25,"Standard Class",Consumer,"United States","New York City","New York",10035,East,Furniture,Chairs,FUR-CH-10003199,6,30,570,0
+982,2023-03-31,"Second Class",Consumer,"United States",Louisville,Colorado,80027,West,"Office Supplies",Art,OFF-AR-10000034,1,0,0,0
+983,2023-02-01,"Second Class",Consumer,"United States",Louisville,Colorado,80027,West,Technology,Phones,TEC-PH-10000560,2,28,532,72
+984,2022-10-16,"Second Class",Consumer,"United States",Louisville,Colorado,80027,West,Furniture,Chairs,FUR-CH-10000665,5,12,588,38
+985,2023-03-27,"Standard Class","Home Office","United States",Pasadena,Texas,77506,Central,"Office Supplies",Labels,OFF-LA-10001569,2,0.2,9.8,-0.2
+986,2022-04-03,"Standard Class","Home Office","United States",Pasadena,Texas,77506,Central,"Office Supplies",Envelopes,OFF-EN-10000461,4,1.5,28.5,8.5
+987,2023-12-25,"Standard Class","Home Office","United States",Pasadena,Texas,77506,Central,Technology,Machines,TEC-MA-10003066,3,13.6,326.4,6.4
+988,2023-10-28,"Same Day",Consumer,"United States",Houston,Texas,77041,Central,"Office Supplies",Binders,OFF-BI-10004022,2,0,0,0
+989,2023-11-14,"Standard Class",Corporate,"United States",Auburn,"New York",13021,East,Furniture,Furnishings,FUR-FU-10004071,5,20.8,499.2,9.2
+990,2023-02-19,"Standard Class",Corporate,"United States",Auburn,"New York",13021,East,"Office Supplies",Art,OFF-AR-10001988,3,1,19,-1
+991,2023-08-14,"Second Class","Home Office","United States",Jacksonville,Florida,32216,South,Furniture,Chairs,FUR-CH-10004086,5,58.5,1111.5,51.5
+992,2023-07-16,"First Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Binders,OFF-BI-10001036,2,0.2,9.8,-0.2
+993,2022-06-24,"First Class",Consumer,"United States","San Jose",California,95123,West,"Office Supplies",Fasteners,OFF-FA-10002983,3,0.5,9.5,-0.5
+994,2022-06-29,"First Class",Consumer,"United States","San Jose",California,95123,West,"Office Supplies",Paper,OFF-PA-10003625,5,3,147,27
+995,2023-03-24,"Standard Class",Corporate,"United States","Virginia Beach",Virginia,23464,South,"Office Supplies",Binders,OFF-BI-10003925,7,54.4,2665.6,465.6
+996,2022-02-10,"Standard Class",Corporate,"United States","Virginia Beach",Virginia,23464,South,Technology,Phones,TEC-PH-10001530,3,12.4,607.6,87.6
+997,2023-03-25,"Standard Class",Consumer,"United States",Henderson,Kentucky,42420,South,"Office Supplies",Envelopes,OFF-EN-10003862,1,0.4,9.6,-0.4
+998,2023-02-17,"Standard Class",Consumer,"United States",Henderson,Kentucky,42420,South,"Office Supplies",Storage,OFF-ST-10004258,3,1.2,38.8,8.8
+999,2023-11-25,"Standard Class",Consumer,"United States",Henderson,Kentucky,42420,South,Furniture,Furnishings,FUR-FU-10002885,5,0.4,19.6,-0.4
+1000,2023-09-05,"Standard Class",Consumer,"United States",Henderson,Kentucky,42420,South,Furniture,Furnishings,FUR-FU-10001918,7,0.9,29.1,-0.9
